@@ -75,9 +75,8 @@ jobs:
     # Commits all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
+        git config user.name "Nazmus Sayad"
+        git config user.email "87106526+NazmusSayad@users.noreply.github.com"
         git add .
-        # "echo" returns true so the build succeeds, even if no changed files
-        git commit -m 'Auto Update GitHub stats images' || echo
-        git push origin actions_branch
+        git commit -m 'Generate GitHub stats images'
+        git push origin actions_branch --force
