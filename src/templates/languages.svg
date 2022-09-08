@@ -48,7 +48,7 @@ li {
 }
 
 div.ellipsis {
-  height: 100%;
+  /* height: 100%; */
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -69,7 +69,7 @@ div.ellipsis {
 }
 
 .progress-item {
-  outline: 2px solid rgb(225, 228, 232);
+  /* outline: 2px solid rgb(225, 228, 232); */
   border-collapse: collapse;
 }
 

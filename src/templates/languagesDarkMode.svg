@@ -9,7 +9,7 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: #00000000;
+  fill: #161B22;
   rx: 6px;
   ry: 6px;
 }
@@ -25,7 +25,7 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: #539bf5;
+  color: #e4bf7a;
 }
 
 ul {
@@ -55,7 +55,7 @@ li {
 }
 
 div.ellipsis {
-  height: 100%;
+  /* height: 100%; */
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -77,18 +77,18 @@ div.ellipsis {
 }
 
 .progress-item {
-  outline: 2px solid rgb(225, 228, 232);
+  /* outline: 2px solid rgb(225, 228, 232); */
   border-collapse: collapse;
 }
 
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: #adbac7;
+  color: #df6d74;
 }
 
 .percent {
-  color: #768390;
+  color: #df6d74d0;
 }
 </style>
 <g>
