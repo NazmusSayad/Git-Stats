@@ -55,15 +55,15 @@ jobs:
           plugin_introduction_title: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_categories: markup, programming
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_categories: markup, programming, data, prose
+          plugin_languages_recent_categories: markup, programming, data, prose
           plugin_languages_colors: github
           plugin_languages_details: percentage,lines,bytes-size
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 1000
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
