@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img
-      align="center" src="./github-metrics.svg" />
-  </a>
-</p>
-
 # 📄 Documentation
 
 Setup a GitHub Action which runs periodically and pushes generated images to a repository.
