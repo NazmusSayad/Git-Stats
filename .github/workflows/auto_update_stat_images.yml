@@ -37,6 +37,7 @@ jobs:
     - name: Switch to actions_branch
       run: |
         git checkout actions_branch 2>/dev/null || git checkout -b actions_branch
+        git branch -d master
         git pull origin actions_branch
 
     # Install dependencies with `pip`
