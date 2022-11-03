@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 447 users
+                            Followed by 446 users
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    111k added, 115k removed
+                                    87.4k added, 96.2k removed
                                 </div>
                             </section>
                             <section>
@@ -373,17 +373,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 22.2kb of code in 46 edited files across 6 commits over last 4 days</small>
+                <small>estimation from 21.7kb of code in 46 edited files across 6 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.9959432048681" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="381.9959432048681" y="0" width="26.706333107955825" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="408.7022763128239" y="0" width="24.052287581699346" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="432.7545638945233" y="0" width="20.154158215010142" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="452.9087221095334" y="0" width="7.0912778904665315" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.36629699507614" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="380.36629699507614" y="0" width="27.264276839537988" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="407.63057383461415" y="0" width="24.554783489024896" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="432.18535732363904" y="0" width="20.57521513045879" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="452.7605724540978" y="0" width="7.239427545902168" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -395,9 +395,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>484 lines</div>
-                                <div>18.4 kB</div>
-                                <div>83.04%</div>
+                                <div>459 lines</div>
+                                <div>17.9 kB</div>
+                                <div>82.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -410,7 +410,7 @@
                             <small>
                                 <div>84 lines</div>
                                 <div>1.29 kB</div>
-                                <div>5.81%</div>
+                                <div>5.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -423,7 +423,7 @@
                             <small>
                                 <div>80 lines</div>
                                 <div>1.16 kB</div>
-                                <div>5.23%</div>
+                                <div>5.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -436,7 +436,7 @@
                             <small>
                                 <div>84 lines</div>
                                 <div>972 bytes</div>
-                                <div>4.38%</div>
+                                <div>4.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -449,7 +449,7 @@
                             <small>
                                 <div>23 lines</div>
                                 <div>342 bytes</div>
-                                <div>1.54%</div>
+                                <div>1.57%</div>
                             </small>
                         </div>
                     </section>
@@ -746,26 +746,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M42.374,43.693A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8288567957889054"/>
+                                        <path d="M41.582,45.162A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8252882009828687"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M46.193,37.516A75,75,0,0,0,42.248,43.922L108,80Z" class="ct-slice-pie" ct:value="0.015386691861249831"/>
+                                        <path d="M45.346,38.776A75,75,0,0,0,41.461,45.394L108,80Z" class="ct-slice-pie" ct:value="0.0157075276718872"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M65.416,18.262A75,75,0,0,0,46.045,37.732L108,80Z" class="ct-slice-pie" ct:value="0.05794754127862509"/>
+                                        <path d="M64.64,18.804A75,75,0,0,0,45.202,38.995L108,80Z" class="ct-slice-pie" ct:value="0.059155835208744775"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M87.613,7.824A75,75,0,0,0,65.2,18.411L108,80Z" class="ct-slice-pie" ct:value="0.05218877941242633"/>
+                                        <path d="M87.198,7.942A75,75,0,0,0,64.427,18.956L108,80Z" class="ct-slice-pie" ct:value="0.05327699444265834"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,87.361,7.896L108,80Z" class="ct-slice-pie" ct:value="0.04373059792144689"/>
+                                        <path d="M108,5A75,75,0,0,0,86.947,8.015L108,80Z" class="ct-slice-pie" ct:value="0.044642447067468886"/>
                                     </g>
                                     <g>
-                                        <text dx="127.0458417029285" dy="112.30334214639393" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="76.10428400046685" dy="60.27911510917613" text-anchor="middle" class="ct-label">SCSS</text>
-                                        <text dx="81.46191340884324" dy="53.505095582730135" text-anchor="middle" class="ct-label">Go</text>
-                                        <text dx="92.04240651572943" dy="46.064690804550416" text-anchor="middle" class="ct-label">Svelte</text>
-                                        <text dx="102.85464005881028" dy="42.854673630783644" text-anchor="middle" class="ct-label">Vue</text>
+                                        <text dx="127.4041827672973" dy="112.08937037608128" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="75.69249165602827" dy="60.96122628412751" text-anchor="middle" class="ct-label">SCSS</text>
+                                        <text dx="81.03032331639528" dy="53.94454875497589" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="91.73145312856019" dy="46.21265943150059" text-anchor="middle" class="ct-label">Svelte</text>
+                                        <text dx="102.74784530463677" dy="42.86962333808107" text-anchor="middle" class="ct-label">Vue</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1979,7 +1979,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        792
+                                        794
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2322,7 +2322,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="127.61666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="127.1 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2361,10 +2361,10 @@
                                     influencer
                                     <span class="gh">ranked 12.4k out of 101m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">447</div>
+                                        <div class="value">446</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 447 users</div>
+                                <div class="text">Followed by 446 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2824,7 +2824,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">Risad212/Sunlite-Mortgage</span>
+                            <span class="blue space">BabyDevs/Todo-App.frontend</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2832,7 +2832,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Nov 2022, 21:53:36
+                            On 1 Nov 2022, 08:23:27
                         </div>
                     </section>
                 </div>
@@ -2842,29 +2842,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Whatever
+                            ...
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2a9c81ee</span>
-                            <span class="code">src/Components/ParalaxList/ParalaxList.js</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">89739f54</span>
+                            <span class="code">src/pages/Main/Notifications.jsx</span>
+                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--4</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,7 +3,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">const ParalaxList = ({item}) =&gt; {<br /></span><span class="token prefix unchanged">·</span><span class="token line">return (<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;div&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">       &lt;li&gt;&lt;i class="fa-solid fa-arrow-right-long me-2 pb-2" style={{color:'#FEAA36'}}&gt;&lt;/i&gt;{item}&lt;/li&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">       &lt;li&gt;&lt;i className="fa-solid fa-arrow-right-long me-2 pb-2" style={{color:'#FEAA36'}}&gt;&lt;/i&gt;{item}&lt;/li&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">);<br /></span><span class="token prefix unchanged">·</span><span class="token line">};</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">const Notifications = () =&gt; {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> return &lt;h1&gt;Notifications&lt;/h1&gt;;<br /></span><span class="token prefix deleted">-</span><span class="token line">};<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">export default Notifications;<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> return &lt;h1&gt;Notifications&lt;/h1&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">export default Notifications</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2022, 04:19:54 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Nov 2022, 05:25:42 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
