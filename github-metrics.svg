@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3176" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3350" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 463 users
+                            Followed by 462 users
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    96.1k added, 94.8k removed
+                                    101k added, 109k removed
                                 </div>
                             </section>
                             <section>
@@ -746,26 +746,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M42.374,43.693A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.828335056876939"/>
+                                        <path d="M41.582,45.162A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8247578831413228"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M46.193,37.516A75,75,0,0,0,42.248,43.922L108,80Z" class="ct-slice-pie" ct:value="0.015377006429567016"/>
+                                        <path d="M45.346,38.776A75,75,0,0,0,41.461,45.394L108,80Z" class="ct-slice-pie" ct:value="0.01569743424978198"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M65.416,18.262A75,75,0,0,0,46.045,37.732L108,80Z" class="ct-slice-pie" ct:value="0.057911065149948295"/>
+                                        <path d="M64.64,18.804A75,75,0,0,0,45.202,38.995L108,80Z" class="ct-slice-pie" ct:value="0.059117822554734474"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M87.613,7.824A75,75,0,0,0,65.2,18.411L108,80Z" class="ct-slice-pie" ct:value="0.05215592824063666"/>
+                                        <path d="M87.198,7.942A75,75,0,0,0,64.427,18.956L108,80Z" class="ct-slice-pie" ct:value="0.05324275944370496"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,87.361,7.896L108,80Z" class="ct-slice-pie" ct:value="0.043703070905085205"/>
+                                        <path d="M108,5A75,75,0,0,0,86.947,8.015L108,80Z" class="ct-slice-pie" ct:value="0.044613760499380366"/>
                                     </g>
                                     <g>
-                                        <text dx="127.0458417029285" dy="112.30334214639393" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="76.10428400046685" dy="60.27911510917613" text-anchor="middle" class="ct-label">SCSS</text>
-                                        <text dx="81.46191340884324" dy="53.505095582730135" text-anchor="middle" class="ct-label">Go</text>
-                                        <text dx="92.04240651572943" dy="46.064690804550416" text-anchor="middle" class="ct-label">Svelte</text>
-                                        <text dx="102.85464005881028" dy="42.854673630783644" text-anchor="middle" class="ct-label">Vue</text>
+                                        <text dx="127.4041827672973" dy="112.08937037608128" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="75.69249165602827" dy="60.96122628412751" text-anchor="middle" class="ct-label">SCSS</text>
+                                        <text dx="81.03032331639528" dy="53.94454875497589" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="91.73145312856019" dy="46.21265943150059" text-anchor="middle" class="ct-label">Svelte</text>
+                                        <text dx="102.74784530463677" dy="42.86962333808107" text-anchor="middle" class="ct-label">Vue</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -2297,7 +2297,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="135.88333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="135.36666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2336,10 +2336,10 @@
                                     influencer
                                     <span class="gh">ranked 11.9k out of 101m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">463</div>
+                                        <div class="value">462</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 463 users</div>
+                                <div class="text">Followed by 462 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2824,7 +2824,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">2a9c81ee</span>
-                            <span class="code">src/Components/Contact/Contact.js</span>
+                            <span class="code">src/Layouts/About/About.js</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -2832,14 +2832,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -54,7 +54,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;Row&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;Col lg="6"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">        &lt;div&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">            &lt;iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5766.2369136475045!2d-79.329416!3d43.728866!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5316e3c150b11752!2sSunlite%20Mortgage%20Alliance!5e0!3m2!1sen!2sin!4v1665975693708!5m2!1sen!2sin" style={{ width: '100%', height: '450px' }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"&gt;&lt;/iframe&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">            &lt;iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5766.2369136475045!2d-79.329416!3d43.728866!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5316e3c150b11752!2sSunlite%20Mortgage%20Alliance!5e0!3m2!1sen!2sin!4v1665975693708!5m2!1sen!2sin" style={{ width: '100%', height: '450px' }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"&gt;&lt;/iframe&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        &lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;/Col&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;Col lg="6"&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -29,7 +29,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;Col lg="6" className='d-flex align-items-center'&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;div className="Aboutcontent"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">      {page == 'home'? (&lt;h2 className='section-subtitle mb-0'&gt;About&lt;/h2&gt;): ''}<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">      {page == 'home'? (&lt;div&gt;&lt;img alt="Mortgage Brokers Toronto" height="2" src={titleImg} width="77" class="line-img" /&gt;&lt;/div&gt;): ''}<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">      {page == 'home'? (&lt;div&gt;&lt;img alt="Mortgage Brokers Toronto" height="2" src={titleImg} width="77" className="line-img" /&gt;&lt;/div&gt;): ''}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">      {page == 'home'? (&lt;h2 className='section-title'&gt;Sunlite Mortgage&lt;/h2&gt;): ''}<br /></span><span class="token prefix unchanged">·</span><span class="token line">       &lt;p className={page == 'home'? 'w-70' : 'w-80' }&gt;{page == 'home'? ('Sunlite Mortgage Alliance has been providing customized mortgage solutions to Canadian since 2003 and has seen many hanges in the mortgage industry. We work with over 100 mortgage lenders including, banks, credit unions, trust companies, and private lenders to help Canadians...'): (`<br /></span><span class="token prefix unchanged">·</span><span class="token line">        Mortgage Alliance has been providing customized mortgage solutions to Canadians since 2003 and has seen many changes in the mortgage industry. We work with over 100 mortgage lenders including, banks, crcedit unions, trust companies, and private lenders to help Canadians whether they are first-time home buyers purchasing their first home, new to Canada, looking to transfer a mortgage, or refinancing an existing mortgage to consolidate debt, our team of mortgage agents can help you find the best mortgage solution.`)}&lt;/p&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 12:28:09 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 13:20:05 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
