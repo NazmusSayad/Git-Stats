@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3170" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3077" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote,footer{justify-content:flex-end}.footnote{width:100%;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote,footer{justify-content:flex-end}.footnote{width:100%;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    99k added, 105k removed
+                                    104k added, 108k removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.02k views in last two weeks
+                                    1.01k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -373,17 +373,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 126kb of code in 173 edited files across 91 commits over last 11 days</small>
+                <small>estimation from 128kb of code in 173 edited files across 91 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.9365919505524" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="284.9365919505524" y="0" width="89.26787680721822" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="374.2044687577706" y="0" width="62.445028595787" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="436.64949735355765" y="0" width="13.25210472096906" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="449.9016020745267" y="0" width="10.09839792547334" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.99760027425435" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="279.99760027425435" y="0" width="86.14946863215633" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="366.1470689064107" y="0" width="71.31813507027769" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="437.4652039766884" y="0" width="12.789166952348303" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.25437092903667" y="0" width="9.74562907096332" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -395,9 +395,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.04k lines</div>
-                                <div>34.8 kB</div>
-                                <div>61.94%</div>
+                                <div>1.08k lines</div>
+                                <div>35.5 kB</div>
+                                <div>60.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -410,7 +410,7 @@
                             <small>
                                 <div>414 lines</div>
                                 <div>10.9 kB</div>
-                                <div>19.41%</div>
+                                <div>18.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -421,9 +421,9 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>516 lines</div>
-                                <div>7.64 kB</div>
-                                <div>13.58%</div>
+                                <div>609 lines</div>
+                                <div>9.04 kB</div>
+                                <div>15.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -436,7 +436,7 @@
                             <small>
                                 <div>72 lines</div>
                                 <div>1.62 kB</div>
-                                <div>2.88%</div>
+                                <div>2.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -449,7 +449,7 @@
                             <small>
                                 <div>21 lines</div>
                                 <div>1.24 kB</div>
-                                <div>2.2%</div>
+                                <div>2.12%</div>
                             </small>
                         </div>
                     </section>
@@ -505,14 +505,6 @@
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                        </svg>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
-                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="329 329"/>
-                            <text x="15" y="15" dominant-baseline="central">1</text>
-                        </svg>
-                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                         </svg>
                     </div>
                     <div class="organization contribution s ">
@@ -749,26 +741,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M118.312,5.712A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.00974471372932402"/>
+                                        <path d="M118.327,5.714A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.009750940776446271"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M49.793,127.297A75,75,0,1,0,118.052,5.677L108,80Z" class="ct-slice-pie" ct:value="0.2749806840221385"/>
+                                        <path d="M49.52,126.958A75,75,0,1,0,118.067,5.679L108,80Z" class="ct-slice-pie" ct:value="0.2751564016188455"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M34.088,67.271A75,75,0,0,0,49.959,127.5L108,80Z" class="ct-slice-pie" ct:value="0.0602579668553588"/>
+                                        <path d="M34.179,66.752A75,75,0,0,0,49.684,127.162L108,80Z" class="ct-slice-pie" ct:value="0.06029647277862366"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M37.587,54.174A75,75,0,0,0,34.044,67.529L108,80Z" class="ct-slice-pie" ct:value="0.01278796575158864"/>
+                                        <path d="M37.542,54.298A75,75,0,0,0,34.134,67.01L108,80Z" class="ct-slice-pie" ct:value="0.012157119527915618"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,37.497,54.42L108,80Z" class="ct-slice-pie" ct:value="0.08614137718980117"/>
+                                        <path d="M108,5A75,75,0,0,0,37.452,54.544L108,80Z" class="ct-slice-pie" ct:value="0.08619642307722651"/>
                                     </g>
                                     <g>
-                                        <text dx="110.58409420596446" dy="42.58913985037632" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="140.66947360330798" dy="98.4107439959053" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="71.72123281474478" dy="89.49215736900986" text-anchor="middle" class="ct-label">SCSS</text>
-                                        <text dx="71.77043600189306" dy="70.32174124611903" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="86.52894033574235" dy="49.25518585364536" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="110.5878111058398" dy="42.58939677470447" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="140.61405152501848" dy="98.50874504453071" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="71.6610384443484" dy="89.25904277217012" text-anchor="middle" class="ct-label">SCSS</text>
+                                        <text dx="71.79610370213601" dy="70.22616283880734" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="86.5019464134421" dy="49.27405506759011" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -2804,7 +2796,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">NazmusSayad/.dotfiles</span>
+                            <span class="blue space">NazmusSayad/npm-is-easy</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2812,7 +2804,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 7 Nov 2022, 17:13:45
+                            On 8 Nov 2022, 02:44:01
                         </div>
                     </section>
                 </div>
@@ -2822,29 +2814,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            smile
+                            finally
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">5c87d53b</span>
-                            <span class="code">install.sh</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">e069bf69</span>
+                            <span class="code">dist-cjs/index.d.ts</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#!/bin/sh<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">cp scripts &gt; ~/scripts<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">cat .bashrc &gt; ~/.bashrc<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">cat install-node.sh &gt; ~/install-node.sh<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">gh alias set list 'repo list'<br /></span><span class="token prefix unchanged">·</span><span class="token line">gh alias set edit 'repo edit'</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">export {};</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2022, 14:28:11 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Nov 2022, 15:22:13 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
