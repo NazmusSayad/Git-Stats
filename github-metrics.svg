@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    97.7k added, 103k removed
+                                    103k added, 124k removed
                                 </div>
                             </section>
                             <section>
@@ -749,26 +749,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M118.327,5.714A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.009751171560660807"/>
+                                        <path d="M118.347,5.717A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.009759564135970627"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M49.525,126.965A75,75,0,1,0,118.068,5.679L108,80Z" class="ct-slice-pie" ct:value="0.27513924609874246"/>
+                                        <path d="M49.159,126.505A75,75,0,1,0,118.088,5.682L108,80Z" class="ct-slice-pie" ct:value="0.27537605116664693"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M34.178,66.757A75,75,0,0,0,49.69,127.169L108,80Z" class="ct-slice-pie" ct:value="0.06029789986903766"/>
+                                        <path d="M34.308,66.057A75,75,0,0,0,49.322,126.71L108,80Z" class="ct-slice-pie" ct:value="0.06034979667574717"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M37.54,54.302A75,75,0,0,0,34.133,67.015L108,80Z" class="ct-slice-pie" ct:value="0.012157407261309308"/>
+                                        <path d="M37.479,54.47A75,75,0,0,0,34.259,66.314L108,80Z" class="ct-slice-pie" ct:value="0.011307197283745903"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,37.451,54.548L108,80Z" class="ct-slice-pie" ct:value="0.08619846316487054"/>
+                                        <path d="M108,5A75,75,0,0,0,37.39,54.716L108,80Z" class="ct-slice-pie" ct:value="0.08627265190098306"/>
                                     </g>
                                     <g>
-                                        <text dx="110.58794897398977" dy="42.58940631174072" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="140.61509305124883" dy="98.50690966256602" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="71.66193796423788" dy="89.26257240107216" text-anchor="middle" class="ct-label">SCSS</text>
-                                        <text dx="71.79542207678386" dy="70.22868804091429" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="86.50094546359875" dy="49.27475542748529" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="110.5929681579138" dy="42.589753861648475" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="140.5397992703316" dy="98.63897699570788" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="71.58300544688524" dy="88.94720669921116" text-anchor="middle" class="ct-label">SCSS</text>
+                                        <text dx="71.83047111024007" dy="70.09973839270795" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="86.46452057278088" dy="49.30027482468577" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -2804,7 +2804,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">NazmusSayad/code-info</span>
+                            <span class="blue space">NazmusSayad/npm-is-easy</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2812,7 +2812,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 8 Nov 2022, 19:32:05
+                            On 8 Nov 2022, 11:58:39
                         </div>
                     </section>
                 </div>
@@ -2822,29 +2822,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            optimize
+                            added init feature and some fixes
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">eec101e3</span>
-                            <span class="code">.gitignore</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">d1a1a9c3</span>
+                            <span class="code">src/scripts/copyData.ts</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -259,6 +259,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">.yarn/install-state.gz<br /></span><span class="token prefix unchanged">·</span><span class="token line">.pnp.*<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">dist-cjs<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Added by npm-ez<br /></span><span class="token prefix inserted">+</span><span class="token line">dist-cjs<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">dist-mjs</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -13,7 +13,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">  lines.forEach((line) =&gt; {<br /></span><span class="token prefix unchanged">·</span><span class="token line">    if (fileLines.includes(line)) return<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    fs.appendFileSync(path, '\n' + line + '\n')<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    fs.appendFileSync(path, '\n' + line)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  })<br /></span><span class="token prefix unchanged">·</span><span class="token line">})<br /></span><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2022, 12:27:54 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Nov 2022, 13:21:09 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
