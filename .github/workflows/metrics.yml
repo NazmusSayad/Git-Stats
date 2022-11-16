@@ -72,8 +72,9 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_repositories_limit: 1000000
-          plugin_lines_sections: history
+          plugin_lines_history_limit: 100000
+          plugin_lines_repositories_limit: 100000
+          plugin_lines_sections: base, repositories
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
