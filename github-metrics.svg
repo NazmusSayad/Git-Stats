@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    112 MB used
+                                    113 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    99.2k added, 113k removed
+                                    99.5k added, 112k removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    624 views in last two weeks
+                                    629 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -373,18 +373,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 151kb of code in 223 edited files across 104 commits over last 15 days</small>
+                <small>estimation from 149kb of code in 224 edited files across 104 commits over last 15 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.7755982738329" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="293.7755982738329" y="0" width="84.70328233294101" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="378.47888060677394" y="0" width="65.68850529619459" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="444.16738590296853" y="0" width="8.174970576696744" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.3423564796652" y="0" width="7.5734274879037535" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.915783967569" y="0" width="0.08421603243101869" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.9676132737716" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="290.9676132737716" y="0" width="86.11545415868964" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="377.0830674324612" y="0" width="66.82035737077217" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="443.9034248032334" y="0" width="8.31126356094448" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.21468836417785" y="0" width="7.6996915549883" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.91437991916615" y="0" width="0.08562008083386513" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -396,9 +396,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.60k lines</div>
-                                <div>48.8 kB</div>
-                                <div>63.86%</div>
+                                <div>1.54k lines</div>
+                                <div>47.5 kB</div>
+                                <div>63.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -411,7 +411,7 @@
                             <small>
                                 <div>976 lines</div>
                                 <div>14 kB</div>
-                                <div>18.41%</div>
+                                <div>18.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -422,9 +422,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>416 lines</div>
+                                <div>414 lines</div>
                                 <div>10.9 kB</div>
-                                <div>14.28%</div>
+                                <div>14.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -437,7 +437,7 @@
                             <small>
                                 <div>58 lines</div>
                                 <div>1.36 kB</div>
-                                <div>1.78%</div>
+                                <div>1.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -450,7 +450,7 @@
                             <small>
                                 <div>22 lines</div>
                                 <div>1.26 kB</div>
-                                <div>1.65%</div>
+                                <div>1.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -737,30 +737,30 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M108.086,5A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.00009246661294796771"/>
+                                        <path d="M108.086,5A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.00009260055428046061"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M50.279,127.889A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.3239567784632049"/>
+                                        <path d="M50.591,128.262A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.32297750467963515"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M45.655,121.691A75,75,0,0,0,50.447,128.09L108,80Z" class="ct-slice-pie" ct:value="0.008315390407249382"/>
+                                        <path d="M45.914,122.076A75,75,0,0,0,50.76,128.462L108,80Z" class="ct-slice-pie" ct:value="0.008327435559935708"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M44.626,39.89A75,75,0,0,0,45.801,121.908L108,80Z" class="ct-slice-pie" ct:value="0.09300159835145239"/>
+                                        <path d="M44.511,40.073A75,75,0,0,0,46.062,122.292L108,80Z" class="ct-slice-pie" ct:value="0.09313631463022615"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M49.476,33.097A75,75,0,0,0,44.487,40.112L108,80Z" class="ct-slice-pie" ct:value="0.00897586621402058"/>
+                                        <path d="M49.356,33.247A75,75,0,0,0,44.372,40.295L108,80Z" class="ct-slice-pie" ct:value="0.008988868090510428"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M108,5A75,75,0,0,0,49.312,33.302L108,80Z" class="ct-slice-pie" ct:value="0.07216358664782109"/>
+                                        <path d="M108,5A75,75,0,0,0,49.193,33.452L108,80Z" class="ct-slice-pie" ct:value="0.07226811829059376"/>
                                     </g>
                                     <g>
-                                        <text dx="108.0215070943657" dy="42.50000616740195" text-anchor="middle" class="ct-label">Procfile</text>
-                                        <text dx="141.93318573621542" dy="95.96210843815773" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="77.94367046994665" dy="102.4246974378885" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="70.50296563173755" dy="80.47160744835597" text-anchor="middle" class="ct-label">SCSS</text>
-                                        <text dx="77.47818324316918" dy="58.21310710857462" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="91.77010331180308" dy="46.194076650822645" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="108.02156868864765" dy="42.500006202778245" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="141.98471510648744" dy="95.8521020413977" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="78.08631854851606" dy="102.6146338024551" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="70.50548971262553" dy="80.64163721055611" text-anchor="middle" class="ct-label">SCSS</text>
+                                        <text dx="77.41896703720437" dy="58.29630393392851" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="91.72678202091299" dy="46.214908959644355" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -2824,7 +2824,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2022, 13:19:51 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Nov 2022, 14:30:36 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
