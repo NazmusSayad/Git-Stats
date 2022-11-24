@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area{fill:#87ceeb}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.deleted{color:#da3633}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area{fill:#87ceeb}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2449 Commits
+                            2451 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    118 MB used
+                                    119 MB used
                                 </div>
                             </section>
                             <section>
@@ -216,7 +216,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    320 views in last two weeks
+                                    329 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -233,20 +233,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 113mb of code in 3858 edited files across 1428 commits</small>
+                <small>estimation from 113mb of code in 3864 edited files across 1430 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.3084507946014" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="345.3084507946014" y="0" width="41.77220713109319" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="387.08065792569465" y="0" width="38.74870061814215" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="425.82935854383675" y="0" width="13.738113062263384" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.5674716061001" y="0" width="10.769704617885484" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="450.33717622398564" y="0" width="4.258293585438367" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.595469809424" y="0" width="3.2173336470386924" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="457.8128034564627" y="0" width="2.187196543537313" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.7826449087333" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="344.7826449087333" y="0" width="41.70860002178357" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="386.49124493051687" y="0" width="39.39014571493861" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="425.8813906454555" y="0" width="13.717193850201712" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.5985844956572" y="0" width="10.753305441832552" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="450.3518899374897" y="0" width="4.251809423739383" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.6036993612291" y="0" width="3.2124345692300795" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="457.81613393045916" y="0" width="2.183866069540815" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -260,7 +260,7 @@
                             <small>
                                 <div>12.1k lines</div>
                                 <div>350 kB</div>
-                                <div>75.07%</div>
+                                <div>74.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -273,7 +273,7 @@
                             <small>
                                 <div>1.43k lines</div>
                                 <div>42.4 kB</div>
-                                <div>9.08%</div>
+                                <div>9.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,9 +284,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.36k lines</div>
-                                <div>39.3 kB</div>
-                                <div>8.42%</div>
+                                <div>1.38k lines</div>
+                                <div>40.1 kB</div>
+                                <div>8.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -299,7 +299,7 @@
                             <small>
                                 <div>559 lines</div>
                                 <div>13.9 kB</div>
-                                <div>2.99%</div>
+                                <div>2.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -325,7 +325,7 @@
                             <small>
                                 <div>270 lines</div>
                                 <div>4.33 kB</div>
-                                <div>0.93%</div>
+                                <div>0.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -351,7 +351,7 @@
                             <small>
                                 <div>98 lines</div>
                                 <div>2.22 kB</div>
-                                <div>0.48%</div>
+                                <div>0.47%</div>
                             </small>
                         </div>
                     </section>
@@ -539,12 +539,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 67 commits)</small>
+                    <small class="h-details">(computed from last 69 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.0 characters per line of code written</li>
+                        <li>Has approximately 32.6 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -559,40 +559,40 @@
                                 <!-- (optimized css) -->
                                 <g class="ct-grids">
                                     <line y1="125" y2="125" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="97.5" y2="97.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="70" y2="70" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="42.5" y2="42.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="15" y2="15" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="100.55555555555556" y2="100.55555555555556" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="76.11111111111111" y2="76.11111111111111" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="51.66666666666667" y2="51.66666666666667" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="27.22222222222223" y2="27.22222222222223" x1="30" x2="465" class="ct-grid ct-vertical"/>
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,15C36.304,24.167,42.609,36.389,48.913,42.5C55.217,48.611,61.522,48.611,67.826,56.25C74.13,63.889,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,108.5,162.391,97.5C168.696,86.5,175,56.25,181.304,56.25C187.609,56.25,193.913,72.75,200.217,83.75C206.522,94.75,212.826,125,219.13,125C225.435,125,231.739,28.75,238.043,28.75C244.348,28.75,250.652,28.75,256.957,28.75C263.261,28.75,269.565,97.5,275.87,97.5C282.174,97.5,288.478,83.75,294.783,83.75C301.087,83.75,307.391,83.75,313.696,83.75C320,83.75,326.304,56.25,332.609,56.25C338.913,56.25,345.217,62.667,351.522,70C357.826,77.333,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,83.75,408.261,83.75C414.565,83.75,420.87,92.917,427.174,97.5C433.478,102.083,439.783,111.25,446.087,111.25C452.391,111.25,458.696,111.25,465,111.25L465,125Z" class="ct-area"/>
-                                        <path d="M30,15C36.304,24.167,42.609,36.389,48.913,42.5C55.217,48.611,61.522,48.611,67.826,56.25C74.13,63.889,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,108.5,162.391,97.5C168.696,86.5,175,56.25,181.304,56.25C187.609,56.25,193.913,72.75,200.217,83.75C206.522,94.75,212.826,125,219.13,125C225.435,125,231.739,28.75,238.043,28.75C244.348,28.75,250.652,28.75,256.957,28.75C263.261,28.75,269.565,97.5,275.87,97.5C282.174,97.5,288.478,83.75,294.783,83.75C301.087,83.75,307.391,83.75,313.696,83.75C320,83.75,326.304,56.25,332.609,56.25C338.913,56.25,345.217,62.667,351.522,70C357.826,77.333,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,83.75,408.261,83.75C414.565,83.75,420.87,92.917,427.174,97.5C433.478,102.083,439.783,111.25,446.087,111.25C452.391,111.25,458.696,111.25,465,111.25" class="ct-line"/>
-                                        <line x1="30" y1="15" x2="30.01" y2="15" class="ct-point" ct:value="8"/>
-                                        <line x1="48.913043478260875" y1="42.5" x2="48.92304347826087" y2="42.5" class="ct-point" ct:value="6"/>
-                                        <line x1="67.82608695652175" y1="56.25" x2="67.83608695652175" y2="56.25" class="ct-point" ct:value="5"/>
+                                        <path d="M30,125L30,15C36.304,27.222,42.609,45.556,48.913,51.667C55.217,57.778,61.522,57.099,67.826,63.889C74.13,70.679,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,110.333,162.391,100.556C168.696,90.778,175,63.889,181.304,63.889C187.609,63.889,193.913,78.556,200.217,88.333C206.522,98.111,212.826,125,219.13,125C225.435,125,231.739,39.444,238.043,39.444C244.348,39.444,250.652,39.444,256.957,39.444C263.261,39.444,269.565,100.556,275.87,100.556C282.174,100.556,288.478,88.333,294.783,88.333C301.087,88.333,307.391,88.333,313.696,88.333C320,88.333,326.304,63.889,332.609,63.889C338.913,63.889,345.217,69.593,351.522,76.111C357.826,82.63,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,88.333,408.261,88.333C414.565,88.333,420.87,96.481,427.174,100.556C433.478,104.63,439.783,112.778,446.087,112.778C452.391,112.778,458.696,104.63,465,100.556L465,125Z" class="ct-area"/>
+                                        <path d="M30,15C36.304,27.222,42.609,45.556,48.913,51.667C55.217,57.778,61.522,57.099,67.826,63.889C74.13,70.679,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,110.333,162.391,100.556C168.696,90.778,175,63.889,181.304,63.889C187.609,63.889,193.913,78.556,200.217,88.333C206.522,98.111,212.826,125,219.13,125C225.435,125,231.739,39.444,238.043,39.444C244.348,39.444,250.652,39.444,256.957,39.444C263.261,39.444,269.565,100.556,275.87,100.556C282.174,100.556,288.478,88.333,294.783,88.333C301.087,88.333,307.391,88.333,313.696,88.333C320,88.333,326.304,63.889,332.609,63.889C338.913,63.889,345.217,69.593,351.522,76.111C357.826,82.63,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,88.333,408.261,88.333C414.565,88.333,420.87,96.481,427.174,100.556C433.478,104.63,439.783,112.778,446.087,112.778C452.391,112.778,458.696,104.63,465,100.556" class="ct-line"/>
+                                        <line x1="30" y1="15" x2="30.01" y2="15" class="ct-point" ct:value="9"/>
+                                        <line x1="48.913043478260875" y1="51.66666666666667" x2="48.92304347826087" y2="51.66666666666667" class="ct-point" ct:value="6"/>
+                                        <line x1="67.82608695652175" y1="63.888888888888886" x2="67.83608695652175" y2="63.888888888888886" class="ct-point" ct:value="5"/>
                                         <line x1="86.73913043478261" y1="125" x2="86.74913043478261" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="105.65217391304348" y1="125" x2="105.66217391304349" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="124.56521739130436" y1="125" x2="124.57521739130436" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="143.47826086956522" y1="125" x2="143.4882608695652" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="162.3913043478261" y1="97.5" x2="162.40130434782608" y2="97.5" class="ct-point" ct:value="2"/>
-                                        <line x1="181.30434782608697" y1="56.25" x2="181.31434782608696" y2="56.25" class="ct-point" ct:value="5"/>
-                                        <line x1="200.21739130434784" y1="83.75" x2="200.22739130434783" y2="83.75" class="ct-point" ct:value="3"/>
+                                        <line x1="162.3913043478261" y1="100.55555555555556" x2="162.40130434782608" y2="100.55555555555556" class="ct-point" ct:value="2"/>
+                                        <line x1="181.30434782608697" y1="63.888888888888886" x2="181.31434782608696" y2="63.888888888888886" class="ct-point" ct:value="5"/>
+                                        <line x1="200.21739130434784" y1="88.33333333333334" x2="200.22739130434783" y2="88.33333333333334" class="ct-point" ct:value="3"/>
                                         <line x1="219.13043478260872" y1="125" x2="219.1404347826087" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="238.0434782608696" y1="28.75" x2="238.05347826086958" y2="28.75" class="ct-point" ct:value="7"/>
-                                        <line x1="256.95652173913044" y1="28.75" x2="256.9665217391304" y2="28.75" class="ct-point" ct:value="7"/>
-                                        <line x1="275.8695652173913" y1="97.5" x2="275.8795652173913" y2="97.5" class="ct-point" ct:value="2"/>
-                                        <line x1="294.7826086956522" y1="83.75" x2="294.7926086956522" y2="83.75" class="ct-point" ct:value="3"/>
-                                        <line x1="313.69565217391306" y1="83.75" x2="313.70565217391305" y2="83.75" class="ct-point" ct:value="3"/>
-                                        <line x1="332.60869565217394" y1="56.25" x2="332.6186956521739" y2="56.25" class="ct-point" ct:value="5"/>
-                                        <line x1="351.5217391304348" y1="70" x2="351.5317391304348" y2="70" class="ct-point" ct:value="4"/>
+                                        <line x1="238.0434782608696" y1="39.44444444444444" x2="238.05347826086958" y2="39.44444444444444" class="ct-point" ct:value="7"/>
+                                        <line x1="256.95652173913044" y1="39.44444444444444" x2="256.9665217391304" y2="39.44444444444444" class="ct-point" ct:value="7"/>
+                                        <line x1="275.8695652173913" y1="100.55555555555556" x2="275.8795652173913" y2="100.55555555555556" class="ct-point" ct:value="2"/>
+                                        <line x1="294.7826086956522" y1="88.33333333333334" x2="294.7926086956522" y2="88.33333333333334" class="ct-point" ct:value="3"/>
+                                        <line x1="313.69565217391306" y1="88.33333333333334" x2="313.70565217391305" y2="88.33333333333334" class="ct-point" ct:value="3"/>
+                                        <line x1="332.60869565217394" y1="63.888888888888886" x2="332.6186956521739" y2="63.888888888888886" class="ct-point" ct:value="5"/>
+                                        <line x1="351.5217391304348" y1="76.11111111111111" x2="351.5317391304348" y2="76.11111111111111" class="ct-point" ct:value="4"/>
                                         <line x1="370.4347826086957" y1="125" x2="370.4447826086957" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="389.34782608695656" y1="125" x2="389.35782608695655" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="408.26086956521743" y1="83.75" x2="408.2708695652174" y2="83.75" class="ct-point" ct:value="3"/>
-                                        <line x1="427.1739130434783" y1="97.5" x2="427.1839130434783" y2="97.5" class="ct-point" ct:value="2"/>
-                                        <line x1="446.0869565217392" y1="111.25" x2="446.0969565217392" y2="111.25" class="ct-point" ct:value="1"/>
-                                        <line x1="465.00000000000006" y1="111.25" x2="465.01000000000005" y2="111.25" class="ct-point" ct:value="1"/>
-                                    <text x="30" y="10" class="ct-post">8</text><text x="48.913043478260875" y="37.5" class="ct-post">6</text><text x="67.82608695652175" y="51.25" class="ct-post">5</text><text x="162.3913043478261" y="92.5" class="ct-post">2</text><text x="181.30434782608697" y="51.25" class="ct-post">5</text><text x="200.21739130434784" y="78.75" class="ct-post">3</text><text x="238.0434782608696" y="23.75" class="ct-post">7</text><text x="256.95652173913044" y="23.75" class="ct-post">7</text><text x="275.8695652173913" y="92.5" class="ct-post">2</text><text x="294.7826086956522" y="78.75" class="ct-post">3</text><text x="313.69565217391306" y="78.75" class="ct-post">3</text><text x="332.60869565217394" y="51.25" class="ct-post">5</text><text x="351.5217391304348" y="65" class="ct-post">4</text><text x="408.26086956521743" y="78.75" class="ct-post">3</text><text x="427.1739130434783" y="92.5" class="ct-post">2</text><text x="446.0869565217392" y="106.25" class="ct-post">1</text><text x="465.00000000000006" y="106.25" class="ct-post">1</text></g>
+                                        <line x1="408.26086956521743" y1="88.33333333333334" x2="408.2708695652174" y2="88.33333333333334" class="ct-point" ct:value="3"/>
+                                        <line x1="427.1739130434783" y1="100.55555555555556" x2="427.1839130434783" y2="100.55555555555556" class="ct-point" ct:value="2"/>
+                                        <line x1="446.0869565217392" y1="112.77777777777777" x2="446.0969565217392" y2="112.77777777777777" class="ct-point" ct:value="1"/>
+                                        <line x1="465.00000000000006" y1="100.55555555555556" x2="465.01000000000005" y2="100.55555555555556" class="ct-point" ct:value="2"/>
+                                    <text x="30" y="10" class="ct-post">9</text><text x="48.913043478260875" y="46.66666666666667" class="ct-post">6</text><text x="67.82608695652175" y="58.888888888888886" class="ct-post">5</text><text x="162.3913043478261" y="95.55555555555556" class="ct-post">2</text><text x="181.30434782608697" y="58.888888888888886" class="ct-post">5</text><text x="200.21739130434784" y="83.33333333333334" class="ct-post">3</text><text x="238.0434782608696" y="34.44444444444444" class="ct-post">7</text><text x="256.95652173913044" y="34.44444444444444" class="ct-post">7</text><text x="275.8695652173913" y="95.55555555555556" class="ct-post">2</text><text x="294.7826086956522" y="83.33333333333334" class="ct-post">3</text><text x="313.69565217391306" y="83.33333333333334" class="ct-post">3</text><text x="332.60869565217394" y="58.888888888888886" class="ct-post">5</text><text x="351.5217391304348" y="71.11111111111111" class="ct-post">4</text><text x="408.26086956521743" y="83.33333333333334" class="ct-post">3</text><text x="427.1739130434783" y="95.55555555555556" class="ct-post">2</text><text x="446.0869565217392" y="107.77777777777777" class="ct-post">1</text><text x="465.00000000000006" y="95.55555555555556" class="ct-post">2</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -641,16 +641,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,121.333C39.5,105.444,49,73.667,58.5,73.667C68,73.667,77.5,95.667,87,95.667C96.5,95.667,106,95.667,115.5,95.667C125,95.667,134.5,48,144,48C153.5,48,163,70,172.5,81C182,92,191.5,103,201,114L201,125Z" class="ct-area"/>
-                                            <path d="M30,121.333C39.5,105.444,49,73.667,58.5,73.667C68,73.667,77.5,95.667,87,95.667C96.5,95.667,106,95.667,115.5,95.667C125,95.667,134.5,48,144,48C153.5,48,163,70,172.5,81C182,92,191.5,103,201,114" class="ct-line"/>
+                                            <path d="M30,125L30,121.333C39.5,105.444,49,73.667,58.5,73.667C68,73.667,77.5,95.667,87,95.667C96.5,95.667,106,95.667,115.5,95.667C125,95.667,134.5,44.333,144,44.333C153.5,44.333,163,65.754,172.5,77.333C182,88.912,191.5,101.778,201,114L201,125Z" class="ct-area"/>
+                                            <path d="M30,121.333C39.5,105.444,49,73.667,58.5,73.667C68,73.667,77.5,95.667,87,95.667C96.5,95.667,106,95.667,115.5,95.667C125,95.667,134.5,44.333,144,44.333C153.5,44.333,163,65.754,172.5,77.333C182,88.912,191.5,101.778,201,114" class="ct-line"/>
                                             <line x1="30" y1="121.33333333333333" x2="30.01" y2="121.33333333333333" class="ct-point" ct:value="1"/>
                                             <line x1="58.5" y1="73.66666666666666" x2="58.51" y2="73.66666666666666" class="ct-point" ct:value="14"/>
                                             <line x1="87" y1="95.66666666666667" x2="87.01" y2="95.66666666666667" class="ct-point" ct:value="8"/>
                                             <line x1="115.5" y1="95.66666666666667" x2="115.51" y2="95.66666666666667" class="ct-point" ct:value="8"/>
-                                            <line x1="144" y1="48" x2="144.01" y2="48" class="ct-point" ct:value="21"/>
-                                            <line x1="172.5" y1="81" x2="172.51" y2="81" class="ct-point" ct:value="12"/>
+                                            <line x1="144" y1="44.33333333333333" x2="144.01" y2="44.33333333333333" class="ct-point" ct:value="22"/>
+                                            <line x1="172.5" y1="77.33333333333334" x2="172.51" y2="77.33333333333334" class="ct-point" ct:value="13"/>
                                             <line x1="201" y1="114" x2="201.01" y2="114" class="ct-point" ct:value="3"/>
-                                        <text x="30" y="116.33333333333333" class="ct-post">1</text><text x="58.5" y="68.66666666666666" class="ct-post">14</text><text x="87" y="90.66666666666667" class="ct-post">8</text><text x="115.5" y="90.66666666666667" class="ct-post">8</text><text x="144" y="43" class="ct-post">21</text><text x="172.5" y="76" class="ct-post">12</text><text x="201" y="109" class="ct-post">3</text></g>
+                                        <text x="30" y="116.33333333333333" class="ct-post">1</text><text x="58.5" y="68.66666666666666" class="ct-post">14</text><text x="87" y="90.66666666666667" class="ct-post">8</text><text x="115.5" y="90.66666666666667" class="ct-post">8</text><text x="144" y="39.33333333333333" class="ct-post">22</text><text x="172.5" y="72.33333333333334" class="ct-post">13</text><text x="201" y="109" class="ct-post">3</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1994,6 +1994,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/npm-is-easy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#07750df</div>
+                                        <div class="message">tsconfig updated</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/dom-theme</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#114f433</div>
+                                        <div class="message">Delete node_modules directory</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">BabyDevs/Todo-Frontend</span>
                                     </div>
                                 </div>
@@ -2022,46 +2062,6 @@
                                     <div class="commit">
                                         <div class="sha">#843114d</div>
                                         <div class="message">theme removed</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/dom-theme</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#776783d</div>
-                                        <div class="message">df</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/dom-theme</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a788562</div>
-                                        <div class="message">y lock</div>
                                     </div>
                                 </div>
                             </section>
@@ -2791,7 +2791,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 24 Nov 2022, 17:06:38
+                            On 24 Nov 2022, 23:22:14
                         </div>
                     </section>
                 </div>
@@ -2801,29 +2801,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            df
+                            Delete node_modules directory
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">776783de</span>
-                            <span class="code">node_modules/rechoir/node_modules/.bin/resolve</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">114f433e</span>
+                            <span class="code">node_modules/npm-ez/dist/scripts/makeSrc.d.ts</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">../../../resolve/bin/resolve<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,2 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">declare const _default: () =&gt; void;<br /></span><span class="token prefix deleted">-</span><span class="token line">export default _default;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2022, 23:18:32 (timezone Asia/Dhaka) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 25 Nov 2022, 00:26:00 (timezone Asia/Dhaka) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
