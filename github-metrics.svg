@@ -1738,7 +1738,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NazmusSayad/100-9-73</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1786,7 +1786,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NazmusSayad/stopwatch</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1834,7 +1834,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NazmusSayad/timer</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2703,7 +2703,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">22ccaad1</span>
-                            <span class="code">node_modules/resolve/test/precedence/bbb.js</span>
+                            <span class="code">node_modules/resolve/test/module_dir/zmodules/bbb/main.js</span>
                             <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -2711,14 +2711,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">module.exports = '&gt;_&lt;';</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">module.exports = function (n) { return n * 111; };</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2022, 13:16:32 (timezone Asia/Dhaka) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 3 Dec 2022, 14:23:27 (timezone Asia/Dhaka) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
