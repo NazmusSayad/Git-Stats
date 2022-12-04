@@ -28,7 +28,7 @@ jobs:
           # Options
           user: NazmusSayad
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Asia/Dhaka
           plugin_achievements: yes
           plugin_achievements_display: compact
