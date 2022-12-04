@@ -79,7 +79,6 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: chartist
-          plugin_stargazers_worldmap: yes
           plugin_starlists: yes
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
