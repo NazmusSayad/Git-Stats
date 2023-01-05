@@ -34,10 +34,10 @@ jobs:
         cache-dependency-path: '**/requirements.txt'
 
     # Switch to actions_branch if not exist, or create new actions_branch
-    - name: Switch to actions_branch
-      run: |
-        git checkout -b actions_branch
-        git branch -d master
+    #  - name: Switch to actions_branch
+      #  run: |
+      #   git checkout -b actions_branch
+      #   git branch -d master
 
     # Install dependencies with `pip`
     - name: Install requirements
@@ -79,4 +79,5 @@ jobs:
         git config user.email "87106526+NazmusSayad@users.noreply.github.com"
         git add .
         git commit -m 'Generate GitHub stats images'
-        git push --set-upstream origin actions_branch --force
+        git push
+      # git push --set-upstream origin actions_branch --force
