@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch ./setup.js",
+    "setup": "node ./setup.js"
+  }
+}
