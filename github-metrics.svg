@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.3mb of code in 8422 edited files across 2622 commits</small>
+                <small>estimation from 14.3mb of code in 8428 edited files across 2623 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1517,7 +1517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tc39/proposals</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tracking ECMAScript Proposals</div>
@@ -1868,7 +1868,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 3.85k out of 113m users</span>
+                                    <span class="gh">ranked 3.84k out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">1252</div>
                                     </div>
@@ -2463,7 +2463,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2023, 17:35:51 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Apr 2023, 18:50:39 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
