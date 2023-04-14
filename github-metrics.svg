@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2200" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2166" class="">
     <defs>
         <style/>
     </defs>
@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.4mb of code in 8565 edited files across 2669 commits</small>
+                <small>estimation from 14.5mb of code in 8613 edited files across 2670 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.3963279314616" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="232.3963279314616" y="0" width="101.3220124122626" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="333.7183403437242" y="0" width="41.832615090834025" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="375.5509554345582" y="0" width="31.600369013212223" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="407.1513244477705" y="0" width="26.54359774979356" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="433.69492219756404" y="0" width="15.748993600330305" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.4439157978943" y="0" width="8.251009625309662" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.694925423204" y="0" width="2.305074576796036" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.97693171654655" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="228.97693171654655" y="0" width="105.50757054643601" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="334.4845022629826" y="0" width="41.48614965709738" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="375.97065192007994" y="0" width="31.12612176101188" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="407.0967736810918" y="0" width="26.42841143231148" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="433.5251851134033" y="0" width="15.512638229392877" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.0378233427962" y="0" width="8.691695830996744" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.72951917379294" y="0" width="2.2704808262070695" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,7 +43,7 @@
                             <small>
                                 <div>23.6k lines</div>
                                 <div>626 kB</div>
-                                <div>50.52%</div>
+                                <div>49.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -54,9 +54,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>9.73k lines</div>
-                                <div>273 kB</div>
-                                <div>22.03%</div>
+                                <div>10.3k lines</div>
+                                <div>288 kB</div>
+                                <div>22.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -67,9 +67,9 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>7.22k lines</div>
-                                <div>112 kB</div>
-                                <div>9.09%</div>
+                                <div>7.28k lines</div>
+                                <div>113 kB</div>
+                                <div>9.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -82,7 +82,7 @@
                             <small>
                                 <div>544 lines</div>
                                 <div>85.1 kB</div>
-                                <div>6.87%</div>
+                                <div>6.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -93,9 +93,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>2.67k lines</div>
-                                <div>71.5 kB</div>
-                                <div>5.77%</div>
+                                <div>2.70k lines</div>
+                                <div>72.3 kB</div>
+                                <div>5.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                             <small>
                                 <div>1.43k lines</div>
                                 <div>42.4 kB</div>
-                                <div>3.42%</div>
+                                <div>3.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -119,9 +119,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>684 lines</div>
-                                <div>22.2 kB</div>
-                                <div>1.79%</div>
+                                <div>729 lines</div>
+                                <div>23.7 kB</div>
+                                <div>1.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -134,7 +134,7 @@
                             <small>
                                 <div>178 lines</div>
                                 <div>6.21 kB</div>
-                                <div>0.5%</div>
+                                <div>0.49%</div>
                             </small>
                         </div>
                     </section>
@@ -1709,6 +1709,36 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">master</span>
+                                        in
+                                        <span class="repo">NazmusSayad/use-react-api.lab</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">NazmusSayad/use-react-api.lab</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1741,39 +1771,6 @@
                                     <div class="commit">
                                         <div class="sha">#23fd144</div>
                                         <div class="message">Create task.rs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/LiveVideo.AI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1e34df0</div>
-                                        <div class="message">Update index.html</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Added Dev-SalamSheikh as collaborator in
-                                        <span class="repo">NazmusSayad/LiveVideo.AI</span>
                                     </div>
                                 </div>
                             </section>
@@ -1962,7 +1959,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.9 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.675 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1987,12 +1984,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 206k out of 113m users</span>
+                                    <span class="gh">ranked 202k out of 113m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">86</div>
+                                        <div class="value">87</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 86 public repositories</div>
+                                <div class="text">Published 87 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2501,7 +2498,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2023, 14:36:43 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Apr 2023, 15:36:09 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
