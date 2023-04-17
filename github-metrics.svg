@@ -1606,7 +1606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NazmusSayad/crazy-writer</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">crazy-writer</div>
@@ -1893,7 +1893,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.763333333333332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.659999999999997 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1932,10 +1932,10 @@
                                     influencer
                                     <span class="gh">ranked 3.84k out of 113m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1259</div>
+                                        <div class="value">1258</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 1259 users</div>
+                                <div class="text">Followed by 1258 users</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2525,7 +2525,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2023, 15:36:32 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Apr 2023, 16:36:35 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
