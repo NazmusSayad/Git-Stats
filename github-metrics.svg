@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.7mb of code in 8800 edited files across 2720 commits</small>
+                <small>estimation from 14.7mb of code in 8803 edited files across 2722 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.57308217729042" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="226.57308217729042" y="0" width="107.99322378877976" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="334.56630596607016" y="0" width="41.58861885935351" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="376.1549248254237" y="0" width="30.818925888728888" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="406.97385071415255" y="0" width="27.365779346869502" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="434.3396300610221" y="0" width="15.359537934120693" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.6991679951428" y="0" width="8.052759442142277" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.751927437285" y="0" width="2.2480725627149516" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.54742535491263" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="226.54742535491263" y="0" width="108.03308454914124" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="334.5805099040539" y="0" width="41.583909421688816" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="376.1644193257427" y="0" width="30.815435996197067" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="406.97985532193974" y="0" width="27.3626804838749" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="434.34253580581463" y="0" width="15.35779864129388" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.7003344471085" y="0" width="8.051847558803477" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.75218200591195" y="0" width="2.2478179940880008" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,7 +43,7 @@
                             <small>
                                 <div>23.5k lines</div>
                                 <div>626 kB</div>
-                                <div>49.26%</div>
+                                <div>49.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -56,7 +56,7 @@
                             <small>
                                 <div>10.6k lines</div>
                                 <div>298 kB</div>
-                                <div>23.48%</div>
+                                <div>23.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1759,8 +1759,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ddfc02</div>
-                                        <div class="message">settings</div>
+                                        <div class="sha">#5078d6d</div>
+                                        <div class="message">width but fixed</div>
                                     </div>
                                 </div>
                             </section>
@@ -1773,34 +1773,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/.dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4baa11d</div>
-                                        <div class="message">Update .bashrc</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/use-react-api</span>
+                                        <span class="repo">NazmusSayad/req-error</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ab5834a</div>
-                                        <div class="message">package.json keywords updated</div>
+                                        <div class="sha">#e26d99b</div>
+                                        <div class="message">statusCode will be inherit from res obj</div>
                                     </div>
                                 </div>
                             </section>
@@ -1813,14 +1793,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/.dotfiles</span>
+                                        <span class="repo">NazmusSayad/messagen-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7879bb3</div>
-                                        <div class="message">Update .bashrc</div>
+                                        <div class="sha">#c2a9638</div>
+                                        <div class="message">save settings</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/messagen-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0a42a10</div>
+                                        <div class="message">signup button text fixed</div>
                                     </div>
                                 </div>
                             </section>
@@ -1971,7 +1971,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.8675 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.945 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1993,10 +1993,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">937</div>
+                                        <div class="value">938</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 937 times</div>
+                                <div class="text">Repositories have been deployed 938 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2548,7 +2548,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2023, 16:35:50 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Apr 2023, 17:36:01 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
