@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.9mb of code in 8918 edited files across 2748 commits</small>
+                <small>estimation from 14.9mb of code in 8928 edited files across 2749 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.39473553775335" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="227.39473553775335" y="0" width="108.10654077061766" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="335.501276308371" y="0" width="40.95356034274456" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="376.45483665111556" y="0" width="30.537133758356415" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="406.991970409472" y="0" width="26.947903694479038" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="433.939874103951" y="0" width="15.124997676623112" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.06487178057415" y="0" width="8.721383741318315" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.7862555218925" y="0" width="2.213744478107594" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.76215954885058" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="226.76215954885058" y="0" width="109.08545240827725" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="335.84761195712787" y="0" width="40.83963405121615" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="376.687246008344" y="0" width="30.452184308934175" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="407.1394303172782" y="0" width="26.872938912255393" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="434.01236922953353" y="0" width="15.082922338599936" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.09529156813346" y="0" width="8.697122238818189" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.7924138069517" y="0" width="2.2075861930483325" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,7 +43,7 @@
                             <small>
                                 <div>23.8k lines</div>
                                 <div>638 kB</div>
-                                <div>49.43%</div>
+                                <div>49.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -54,9 +54,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.8k lines</div>
-                                <div>303 kB</div>
-                                <div>23.5%</div>
+                                <div>10.9k lines</div>
+                                <div>307 kB</div>
+                                <div>23.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -69,7 +69,7 @@
                             <small>
                                 <div>7.38k lines</div>
                                 <div>114 kB</div>
-                                <div>8.9%</div>
+                                <div>8.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -82,7 +82,7 @@
                             <small>
                                 <div>587 lines</div>
                                 <div>85.7 kB</div>
-                                <div>6.64%</div>
+                                <div>6.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -95,7 +95,7 @@
                             <small>
                                 <div>2.83k lines</div>
                                 <div>75.6 kB</div>
-                                <div>5.86%</div>
+                                <div>5.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                             <small>
                                 <div>1.43k lines</div>
                                 <div>42.4 kB</div>
-                                <div>3.29%</div>
+                                <div>3.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -121,7 +121,7 @@
                             <small>
                                 <div>770 lines</div>
                                 <div>24.4 kB</div>
-                                <div>1.9%</div>
+                                <div>1.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1723,6 +1723,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/socket-router.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0d775fe</div>
+                                        <div class="message">readme added</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">NazmusSayad/nazmussayad.com</span>
                                     </div>
                                 </div>
@@ -1779,26 +1799,6 @@
  M src/types.ts
 ?? src/core/createRouter.ts
 ?? src/core/socketHandler.ts</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/windows-settings</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a1ab91e</div>
-                                        <div class="message">...</div>
                                     </div>
                                 </div>
                             </section>
@@ -2526,7 +2526,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2023, 19:36:10 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Apr 2023, 20:35:51 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
