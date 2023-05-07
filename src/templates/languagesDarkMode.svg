@@ -54,11 +54,13 @@ li {
   }
 }
 
+/*
 div.ellipsis {
-  /* height: 100%; */
+  height: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
 }
+*/
 
 .octicon {
   fill: #768390;
