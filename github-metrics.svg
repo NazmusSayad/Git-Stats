@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 17.5mb of code in 10039 edited files across 3054 commits</small>
+                <small>estimation from 17.5mb of code in 10042 edited files across 3055 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.6387160189249" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="214.6387160189249" y="0" width="115.32499272369319" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="329.96370874261805" y="0" width="38.67554604800846" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="368.6392547906265" y="0" width="30.99365823818765" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="399.6329130288142" y="0" width="26.857205999287896" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="426.4901190281021" y="0" width="17.340807767556846" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.8309267956589" y="0" width="14.104667597359875" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.9355943930188" y="0" width="2.06440560698121" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.67698597751232" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="214.67698597751232" y="0" width="115.30700503376909" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="329.9839910112814" y="0" width="38.66951367190744" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="368.6535046831889" y="0" width="30.988824036157062" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="399.6423287193459" y="0" width="26.853016975882536" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="426.4953456952285" y="0" width="17.33810305398358" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.83344874921204" y="0" width="14.10246763721913" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.9359163864312" y="0" width="2.064083613568864" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,7 +43,7 @@
                             <small>
                                 <div>24.2k lines</div>
                                 <div>646 kB</div>
-                                <div>46.66%</div>
+                                <div>46.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1749,6 +1749,28 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/nazmussayad.com</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5708144</div>
+                                        <div class="message">M components/ContactMe.js
+ M components/Introduction.js
+ M components/Navbar.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1793,27 +1815,6 @@
                                     <div class="commit">
                                         <div class="sha">#4a50c0f</div>
                                         <div class="message"> M package.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/use-react-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#218e333</div>
-                                        <div class="message">M package.json
- M yarn.lock</div>
                                     </div>
                                 </div>
                             </section>
@@ -1946,7 +1947,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 3.66k out of 116m users</span>
+                                    <span class="gh">ranked 3.88k out of 116m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">1281</div>
                                     </div>
@@ -2007,7 +2008,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.89 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.9675 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2029,10 +2030,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">976</div>
+                                        <div class="value">977</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 976 times</div>
+                                <div class="text">Repositories have been deployed 977 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2541,7 +2542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2023, 02:36:09 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 May 2023, 03:36:08 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
