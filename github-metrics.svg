@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 22.6mb of code in 10247 edited files across 3094 commits</small>
+                <small>estimation from 22.6mb of code in 10250 edited files across 3095 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2386,7 +2386,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.33m out of 405m repositories</span>
+                                    <span class="gh">ranked 1.33m out of 406m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -2466,7 +2466,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.01m out of 405m repositories</span>
+                                    <span class="gh">ranked 1.01m out of 406m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -2656,7 +2656,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2023, 11:35:52 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jun 2023, 12:35:41 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
