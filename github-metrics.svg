@@ -2029,7 +2029,7 @@ prisma error codes</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 172k out of 117m users</span>
+                                    <span class="gh">ranked 161k out of 117m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">96</div>
                                     </div>
@@ -2581,7 +2581,7 @@ prisma error codes</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2023, 00:35:54 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jun 2023, 01:35:55 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
