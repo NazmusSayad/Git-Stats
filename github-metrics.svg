@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 22.6mb of code in 10281 edited files across 3105 commits</small>
+                <small>estimation from 22.6mb of code in 10290 edited files across 3107 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="215.02964467488195" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="215.02964467488195" y="0" width="115.09361343459317" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="330.1232581094751" y="0" width="38.61152028909957" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="368.7347783985747" y="0" width="30.94234952524538" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="399.6771279238201" y="0" width="26.81274501109287" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="426.48987293491297" y="0" width="17.367821089357985" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.8576940242709" y="0" width="14.081317906421896" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.9390119306928" y="0" width="2.0609880693071805" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.58729617365552" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="214.58729617365552" y="0" width="115.80313803707908" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="330.39043421073455" y="0" width="38.532090552070606" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="368.92252476280515" y="0" width="30.878696432400385" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="399.8012211952055" y="0" width="26.75758713931497" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="426.5588083345205" y="0" width="17.332092854583365" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.89090118910383" y="0" width="14.05235050576132" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.9432516948652" y="0" width="2.0567483051347475" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,7 +43,7 @@
                             <small>
                                 <div>24.2k lines</div>
                                 <div>648 kB</div>
-                                <div>46.75%</div>
+                                <div>46.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -54,9 +54,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12.5k lines</div>
-                                <div>347 kB</div>
-                                <div>25.02%</div>
+                                <div>12.6k lines</div>
+                                <div>349 kB</div>
+                                <div>25.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -69,7 +69,7 @@
                             <small>
                                 <div>7.48k lines</div>
                                 <div>116 kB</div>
-                                <div>8.39%</div>
+                                <div>8.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -82,7 +82,7 @@
                             <small>
                                 <div>1.06k lines</div>
                                 <div>93.2 kB</div>
-                                <div>6.73%</div>
+                                <div>6.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -95,7 +95,7 @@
                             <small>
                                 <div>3.06k lines</div>
                                 <div>80.8 kB</div>
-                                <div>5.83%</div>
+                                <div>5.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                             <small>
                                 <div>1.40k lines</div>
                                 <div>52.3 kB</div>
-                                <div>3.78%</div>
+                                <div>3.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -121,7 +121,7 @@
                             <small>
                                 <div>1.43k lines</div>
                                 <div>42.4 kB</div>
-                                <div>3.06%</div>
+                                <div>3.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1763,6 +1763,31 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/req-error</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f91dcc8</div>
+                                        <div class="message">M src/ErrorManager.ts
+ D src/errorMessages.ts
+ M src/index.ts
+ M src/types.ts
+ M src/utils.ts
+?? src/error/</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1815,117 +1840,6 @@
 ?? package.json
 ?? png/
 ?? yarn.lock</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">wdhive2/logo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fd3e953</div>
-                                        <div class="message">M ai/WDHive.ai
- D png/black-block_1024.png
- D png/black-block_114.png
- D png/black-block_120.png
- D png/black-block_128.png
- D png/black-block_144.png
- D png/black-block_152.png
- D png/black-block_16.png
- D png/black-block_180.png
- D png/black-block_192.png
- D png/black-block_24.png
- D png/black-block_256.png
- D png/black-block_384.png
- D png/black-block_48.png
- D png/black-block_512.png
- D png/black-block_57.png
- D png/black-block_60.png
- D png/black-block_64.png
- D png/black-block_72.png
- D png/black-block_76.png
- D png/black-block_8.png
- D png/black-block_96.png
- D png/black_1024.png
- D png/black_114.png
- D png/black_120.png
- D png/black_128.png
- D png/black_144.png
- D png/black_152.png
- D png/black_16.png
- D png/black_180.png
- D png/black_192.png
- D png/black_24.png
- D png/black_256.png
- D png/black_384.png
- D png/black_48.png
- D png/black_512.png
- D png/black_57.png
- D png/black_60.png
- D png/black_64.png
- D png/black_72.png
- D png/black_76.png
- D png/black_8.png
- D png/black_96.png
- D png/white-block_1024.png
- D png/white-block_114.png
- D png/white-block_120.png
- D png/white-block_128.png
- D png/white-block_144.png
- D png/white-block_152.png
- D png/white-block_16.png
- D png/white-block_180.png
- D png/white-block_192.png
- D png/white-block_24.png
- D png/white-block_256.png
- D png/white-block_384.png
- D png/white-block_48.png
- D png/white-block_512.png
- D png/white-block_57.png
- D png/white-block_60.png
- D png/white-block_64.png
- D png/white-block_72.png
- D png/white-block_76.png
- D png/white-block_8.png
- D png/white-block_96.png
- D png/white_1024.png
- D png/white_114.png
- D png/white_120.png
- D png/white_128.png
- D png/white_144.png
- D png/white_152.png
- D png/white_16.png
- D png/white_180.png
- D png/white_192.png
- D png/white_24.png
- D png/white_256.png
- D png/white_384.png
- D png/white_48.png
- D png/white_512.png
- D png/white_57.png
- D png/white_60.png
- D png/white_64.png
- D png/white_72.png
- D png/white_76.png
- D png/white_8.png
- D png/white_96.png
- M svg/black-block.svg
- M svg/black.svg
- M svg/white-block.svg
- M svg/white.svg
-?? convert-svg-to-png/
-?? svg/black-round.svg
-?? svg/white-round.svg</div>
                                     </div>
                                 </div>
                             </section>
@@ -2653,7 +2567,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2023, 20:35:48 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Jun 2023, 21:36:05 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
