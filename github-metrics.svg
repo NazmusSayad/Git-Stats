@@ -1890,7 +1890,7 @@ Signed-off-by: Nazmus Sayad &lt;87106526+NazmusSayad@users.noreply.github.com&gt
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.553333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.45 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -1908,10 +1908,10 @@ Signed-off-by: Nazmus Sayad &lt;87106526+NazmusSayad@users.noreply.github.com&gt
                                     <span class="prefix">Master</span>
                                     follower
                                     <div class="value-wrapper">
-                                        <div class="value">1586</div>
+                                        <div class="value">1585</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 1586 users</div>
+                                <div class="text">Following 1585 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2591,7 +2591,7 @@ Signed-off-by: Nazmus Sayad &lt;87106526+NazmusSayad@users.noreply.github.com&gt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2023, 04:35:57 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jun 2023, 05:35:58 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
