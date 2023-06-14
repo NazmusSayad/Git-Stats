@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 23.4mb of code in 10712 edited files across 3226 commits</small>
+                <small>estimation from 23.4mb of code in 10720 edited files across 3228 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.07875328203255" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="212.07875328203255" y="0" width="120.94471813795421" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="333.0234714199868" y="0" width="37.72627971969839" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="370.74975113968515" y="0" width="30.232938890614886" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="400.98269003030003" y="0" width="26.19801320351032" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="427.1807032338104" y="0" width="17.04708303304541" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.2277862668558" y="0" width="13.758477630046686" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.98626389690247" y="0" width="2.0137361030975627" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.46519100195752" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="212.46519100195752" y="0" width="120.75620020440503" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="333.22139120636257" y="0" width="37.66747533036456" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="370.8888665367271" y="0" width="30.18581445845675" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="401.0746809951838" y="0" width="26.157178056773397" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="427.23185905195726" y="0" width="17.0205115471971" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.25237059915435" y="0" width="13.73703213154513" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.9894027306995" y="0" width="2.0105972693004857" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,9 +41,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>24.4k lines</div>
-                                <div>654 kB</div>
-                                <div>46.1%</div>
+                                <div>24.5k lines</div>
+                                <div>656 kB</div>
+                                <div>46.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -56,7 +56,7 @@
                             <small>
                                 <div>13.4k lines</div>
                                 <div>373 kB</div>
-                                <div>26.29%</div>
+                                <div>26.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -69,7 +69,7 @@
                             <small>
                                 <div>7.48k lines</div>
                                 <div>116 kB</div>
-                                <div>8.2%</div>
+                                <div>8.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -82,7 +82,7 @@
                             <small>
                                 <div>1.06k lines</div>
                                 <div>93.2 kB</div>
-                                <div>6.57%</div>
+                                <div>6.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -95,7 +95,7 @@
                             <small>
                                 <div>3.06k lines</div>
                                 <div>80.8 kB</div>
-                                <div>5.7%</div>
+                                <div>5.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                             <small>
                                 <div>1.40k lines</div>
                                 <div>52.6 kB</div>
-                                <div>3.71%</div>
+                                <div>3.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1798,6 +1798,58 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#2a9600e</div>
+                                        <div class="message">M README.md
+ M README.template.md
+ M config.js
+ M index.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/utils</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#77190f9</div>
+                                        <div class="message">M index.js
+ D langs.js
+ D snippets/TypeScript.md
+ D src/entriesToObject.ts
+ D src/objectFromEntries.ts
+ D utils.js
+?? README.template.md
+?? config.js
+?? snippets/typescript.md
+?? src/typescript/</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/utils</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#ab86838</div>
                                         <div class="message">M index.js
  M package.json
@@ -1825,49 +1877,6 @@
                                     <div class="commit">
                                         <div class="sha">#60f03a9</div>
                                         <div class="message">Update entriesToObject.ts</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/npm-ez</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#52e970a</div>
-                                        <div class="message">c7a74a0b2ff4f30c287e8c4a7167e0465c7ef38d restored;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/npm-ez</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#76f4cbe</div>
-                                        <div class="message">M README.md
- M package.json
- M src/scripts/ignoreData.ts
- M src/scripts/init.ts</div>
                                     </div>
                                 </div>
                             </section>
@@ -1963,7 +1972,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.83 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.933333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2000,12 +2009,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 3.95k out of 118m users</span>
+                                    <span class="gh">ranked 3.94k out of 118m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1279</div>
+                                        <div class="value">1280</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 1279 users</div>
+                                <div class="text">Followed by 1280 users</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2595,7 +2604,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2023, 16:35:51 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jun 2023, 17:36:31 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
