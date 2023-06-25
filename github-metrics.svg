@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 24.3mb of code in 11299 edited files across 3415 commits</small>
+                <small>estimation from 24.3mb of code in 11302 edited files across 3416 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1864,7 +1864,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.346666666666664 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.553333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1901,12 +1901,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 3.96k out of 118m users</span>
+                                    <span class="gh">ranked 3.95k out of 119m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1284</div>
+                                        <div class="value">1286</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 1284 users</div>
+                                <div class="text">Followed by 1286 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2013,7 +2013,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 157k out of 118m users</span>
+                                    <span class="gh">ranked 157k out of 119m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">101</div>
                                     </div>
@@ -2295,7 +2295,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.34m out of 410m repositories</span>
+                                    <span class="gh">ranked 1.34m out of 411m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -2375,7 +2375,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 984k out of 410m repositories</span>
+                                    <span class="gh">ranked 985k out of 411m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -2607,7 +2607,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2023, 11:37:09 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jun 2023, 12:41:57 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
