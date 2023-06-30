@@ -1718,7 +1718,7 @@
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Some useful websites for programmers.</div>
+                                        <div class="field description">🔗 Some useful websites for programmers.</div>
                                         <div class="field infos">
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2280,7 +2280,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.34m out of 412m repositories</span>
+                                    <span class="gh">ranked 1.28m out of 412m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -2592,7 +2592,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2023, 03:36:11 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Jul 2023, 04:37:06 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
