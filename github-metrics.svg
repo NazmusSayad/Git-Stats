@@ -1857,7 +1857,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.723333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.93 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1896,10 +1896,10 @@
                                     influencer
                                     <span class="gh">ranked 3.87k out of 119m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1307</div>
+                                        <div class="value">1309</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 1307 users</div>
+                                <div class="text">Followed by 1309 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2600,7 +2600,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2023, 01:35:51 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Jul 2023, 02:36:33 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
