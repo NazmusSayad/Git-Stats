@@ -1902,7 +1902,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">03d134ed</span>
-                            <span class="code">package.json</span>
+                            <span class="code">src/index.tsx</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -1913,14 +1913,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -15,7 +15,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  "react-dom": "latest",<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "react-redux": "latest",<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "react-router-dom": "latest",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  "react-rtk": "^1.0.1",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  "react-rtk": "^1.0.2",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  "use-react-api": "latest"<br /></span><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">"devDependencies": {</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import React from 'react'<br /></span><span class="token prefix unchanged">·</span><span class="token line">import { Provider } from 'react-redux'<br /></span><span class="token prefix unchanged">·</span><span class="token line">import { createRoot } from 'react-dom/client'<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import store from '$store'<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import { store } from '$store'<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">import 'css-reset-plus'<br /></span><span class="token prefix unchanged">·</span><span class="token line">import './styles/index.scss'</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2023, 03:36:19 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Jul 2023, 04:36:35 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
