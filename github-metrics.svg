@@ -1744,7 +1744,7 @@
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Some useful websites for programmers.</div>
+                                        <div class="field description">🔗 Some useful websites for programmers.</div>
                                         <div class="field infos">
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -1893,7 +1893,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2023, 12:38:20 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Aug 2023, 13:35:56 (timezone Asia/Dhaka) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
