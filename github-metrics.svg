@@ -2298,7 +2298,7 @@ I usually stick with built-in themes, so I'd say that the one above is "Dark (Vi
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 2.99k out of 120m users</span>
+                                    <span class="gh">ranked 2.99k out of 121m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">1685</div>
                                     </div>
@@ -2341,7 +2341,7 @@ I usually stick with built-in themes, so I'd say that the one above is "Dark (Vi
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 135k out of 120m users</span>
+                                    <span class="gh">ranked 135k out of 121m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">112</div>
                                     </div>
@@ -2462,7 +2462,7 @@ I usually stick with built-in themes, so I'd say that the one above is "Dark (Vi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.02m out of 51.8m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 53.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -2572,7 +2572,7 @@ I usually stick with built-in themes, so I'd say that the one above is "Dark (Vi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2023, 10:36:36 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2023, 11:36:23 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
