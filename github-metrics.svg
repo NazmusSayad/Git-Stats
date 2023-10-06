@@ -2205,7 +2205,7 @@ I usually stick with built-in themes, so I'd say that the one above is "Dark (Vi
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.99000000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.78333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2244,10 +2244,10 @@ I usually stick with built-in themes, so I'd say that the one above is "Dark (Vi
                                     influencer
                                     <span class="gh">ranked 2.99k out of 121m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1687</div>
+                                        <div class="value">1685</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 1687 users</div>
+                                <div class="text">Followed by 1685 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2406,7 +2406,7 @@ I usually stick with built-in themes, so I'd say that the one above is "Dark (Vi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.02m out of 46.5m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 51.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -2516,7 +2516,7 @@ I usually stick with built-in themes, so I'd say that the one above is "Dark (Vi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2023, 18:52:08 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2023, 19:36:06 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
