@@ -2050,7 +2050,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">API error: 504</div>
+                        <div class="field error">API error: 403</div>
                     </section>
                 </div>
             </section>
@@ -2274,7 +2274,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.04m out of 46.5m repositories</span>
+                                    <span class="gh">ranked 1.04m out of 52.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -2384,7 +2384,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2023, 13:36:26 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2023, 14:36:27 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
