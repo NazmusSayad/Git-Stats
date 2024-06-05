@@ -1985,7 +1985,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.97 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.07333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2024,10 +2024,10 @@
                                     influencer
                                     <span class="gh">ranked 3.04k out of 138m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1861</div>
+                                        <div class="value">1862</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 1861 users</div>
+                                <div class="text">Followed by 1862 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2221,7 +2221,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.09m out of 206m repositories</span>
+                                    <span class="gh">ranked 1.09m out of 207m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -2336,7 +2336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2024, 07:40:43 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2024, 08:44:49 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
