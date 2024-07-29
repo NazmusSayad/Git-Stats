@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 42.8mb of code in 22445 edited files across 6800 commits</small>
+                <small>estimation from 42.8mb of code in 22460 edited files across 6804 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.01908860774995" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="272.01908860774995" y="0" width="86.10804837658064" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="358.12713698433055" y="0" width="56.72479570149205" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.8519326858226" y="0" width="15.738295881582882" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="430.59022856740546" y="0" width="9.984429540610227" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.5746581080157" y="0" width="8.813614662760788" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.3882727707765" y="0" width="8.092679945431968" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.48095271620844" y="0" width="2.519047283791519" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.89604939366734" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="271.89604939366734" y="0" width="86.18291583122912" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="358.0789652248964" y="0" width="56.68358698517038" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="414.7625522100668" y="0" width="15.726862522284707" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="430.4894147323515" y="0" width="9.977176177782127" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.4665909101337" y="0" width="8.929390934808088" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.39598184494173" y="0" width="8.08680087706285" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.4827827220046" y="0" width="2.5172172779953783" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,7 +43,7 @@
                             <small>
                                 <div>38.4k lines</div>
                                 <div>1.16 MB</div>
-                                <div>59.13%</div>
+                                <div>59.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -55,8 +55,8 @@
                             </div>
                             <small>
                                 <div>13.5k lines</div>
-                                <div>366 kB</div>
-                                <div>18.72%</div>
+                                <div>367 kB</div>
+                                <div>18.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -69,7 +69,7 @@
                             <small>
                                 <div>10.2k lines</div>
                                 <div>241 kB</div>
-                                <div>12.33%</div>
+                                <div>12.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -106,9 +106,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>1.88k lines</div>
-                                <div>37.5 kB</div>
-                                <div>1.92%</div>
+                                <div>1.89k lines</div>
+                                <div>38 kB</div>
+                                <div>1.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -282,12 +282,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 60 commits)</small>
+                    <small class="h-details">(computed from last 63 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.0 characters per line of code written</li>
+                        <li>Has approximately 29.3 characters per line of code written</li>
                         <li>Mostly pushes code around 08:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -419,8 +419,8 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,45.625L29.565,57.5L49.13,57.5L68.696,57.5L88.261,105L107.826,81.25L127.391,81.25L146.957,69.375L166.522,10L186.087,57.5L205.652,93.125L225.217,45.625L244.783,57.5L264.348,93.125L283.913,105L303.478,105L323.043,93.125L342.609,105L362.174,105L381.739,81.25L401.304,33.75L420.87,105L440.435,93.125L460,69.375" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,69.375L440.435,93.125L420.87,105L401.304,33.75L381.739,81.25L362.174,105L342.609,105L323.043,93.125L303.478,105L283.913,105L264.348,93.125L244.783,57.5L225.217,45.625L205.652,93.125L186.087,57.5L166.522,10L146.957,69.375L127.391,81.25L107.826,81.25L88.261,105L68.696,57.5L49.13,57.5L29.565,57.5L10,45.625Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,45.625L29.565,57.5L49.13,57.5L68.696,57.5L88.261,105L107.826,81.25L127.391,81.25L146.957,69.375L166.522,10L186.087,21.875L205.652,93.125L225.217,45.625L244.783,57.5L264.348,93.125L283.913,105L303.478,105L323.043,93.125L342.609,105L362.174,105L381.739,81.25L401.304,33.75L420.87,105L440.435,93.125L460,69.375" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,69.375L440.435,93.125L420.87,105L401.304,33.75L381.739,81.25L362.174,105L342.609,105L323.043,93.125L303.478,105L283.913,105L264.348,93.125L244.783,57.5L225.217,45.625L205.652,93.125L186.087,21.875L166.522,10L146.957,69.375L127.391,81.25L107.826,81.25L88.261,105L68.696,57.5L49.13,57.5L29.565,57.5L10,45.625Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="45.625" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="57.5" r="2" fill="#106cbc"/>
@@ -431,7 +431,7 @@
                                 <circle transform="translate(10,10)" cx="127.3913043478261" cy="81.25" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="146.95652173913044" cy="69.375" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="10" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="57.5" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="21.875" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="93.125" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="225.2173913043478" cy="45.625" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="244.7826086956522" cy="57.5" r="2" fill="#106cbc"/>
@@ -457,7 +457,7 @@
                                 <text transform="translate(10,6)" x="127.3913043478261" y="81.25" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="146.95652173913044" y="69.375" fill="rgba(127, 127, 127, .8)">3</text>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="10" fill="rgba(127, 127, 127, .8)">8</text>
-                                <text transform="translate(10,6)" x="186.08695652173913" y="57.5" fill="rgba(127, 127, 127, .8)">4</text>
+                                <text transform="translate(10,6)" x="186.08695652173913" y="21.875" fill="rgba(127, 127, 127, .8)">7</text>
                                 <text transform="translate(10,6)" x="205.65217391304347" y="93.125" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="225.2173913043478" y="45.625" fill="rgba(127, 127, 127, .8)">5</text>
                                 <text transform="translate(10,6)" x="244.7826086956522" y="57.5" fill="rgba(127, 127, 127, .8)">4</text>
@@ -530,11 +530,11 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,46.944L41,36.389L72,105L103,62.778L134,10L165,78.611L196,78.611" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,78.611L165,78.611L134,10L103,62.778L72,105L41,36.389L10,46.944Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,46.944L41,20.556L72,105L103,62.778L134,10L165,78.611L196,78.611" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,78.611L165,78.611L134,10L103,62.778L72,105L41,20.556L10,46.944Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="46.94444444444444" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="41" cy="36.38888888888889" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="41" cy="20.55555555555556" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="105" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="62.77777777777778" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="10" r="2" fill="#106cbc"/>
@@ -543,7 +543,7 @@
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <text transform="translate(10,6)" x="10" y="46.94444444444444" fill="rgba(127, 127, 127, .8)">11</text>
-                                    <text transform="translate(10,6)" x="41" y="36.38888888888889" fill="rgba(127, 127, 127, .8)">13</text>
+                                    <text transform="translate(10,6)" x="41" y="20.55555555555556" fill="rgba(127, 127, 127, .8)">16</text>
                                     <text transform="translate(10,6)" x="72" y="105" fill="rgba(127, 127, 127, .8)"/>
                                     <text transform="translate(10,6)" x="103" y="62.77777777777778" fill="rgba(127, 127, 127, .8)">8</text>
                                     <text transform="translate(10,6)" x="134" y="10" fill="rgba(127, 127, 127, .8)">18</text>
@@ -1862,29 +1862,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#09e1f43</div>
-                                        <div class="message">M web/features/Home/ContentContextMenu.tsx
- M web/features/Home/ContentTable.tsx
- M web/store/slice/HomeUI.ts</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/netserv</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#272fa02</div>
+                                        <div class="sha">#3338b6c</div>
                                         <div class="message"> M package.json</div>
                                     </div>
                                 </div>
@@ -1904,8 +1882,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf74418</div>
-                                        <div class="message">download tab related error fixed</div>
+                                        <div class="sha">#1febbb3</div>
+                                        <div class="message">icon added</div>
                                     </div>
                                 </div>
                             </section>
@@ -1924,8 +1902,38 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#261b5b3</div>
-                                        <div class="message">download feature added</div>
+                                        <div class="sha">#800fa54</div>
+                                        <div class="message">M web/App.tsx
+ M web/features/Auth/Login.tsx
+ M web/features/Home/AddressBar.tsx
+ M web/features/Home/ContentContextMenu.tsx
+ M web/features/Home/ContentTable.tsx
+ M web/features/Home/Header.tsx
+ M web/features/Home/PreviewModal.tsx
+ M web/features/Home/useContentData.ts
+ M web/main.ts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/netserv</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#09e1f43</div>
+                                        <div class="message">M web/features/Home/ContentContextMenu.tsx
+ M web/features/Home/ContentTable.tsx
+ M web/store/slice/HomeUI.ts</div>
                                     </div>
                                 </div>
                             </section>
@@ -2178,7 +2186,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.4134134134134135 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.5685685685685686 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2201,12 +2209,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.11m out of 210m repositories</span>
+                                    <span class="gh">ranked 1.08m out of 212m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">23</div>
+                                        <div class="value">24</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 23 stars</div>
+                                <div class="text">Maintaining a repository with 24 stars</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
@@ -2277,7 +2285,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2024, 08:50:04 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2024, 09:37:52 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
