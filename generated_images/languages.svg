@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 35.19704%;" class="progress-item"></span><span style="background-color: #3178c6;width: 33.67537%;" class="progress-item"></span><span style="background-color: #e34c26;width: 13.45562%;" class="progress-item"></span><span style="background-color: #563d7c;width: 5.95080%;" class="progress-item"></span><span style="background-color: #c6538c;width: 4.72447%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.91641%;" class="progress-item"></span><span style="background-color: #dea584;width: 1.36415%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.90859%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.64779%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.32999%;" class="progress-item"></span><span style="background-color: #178600;width: 0.20228%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.17726%;" class="progress-item"></span><span style="background-color: #555555;width: 0.12620%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.10402%;" class="progress-item"></span><span style="background-color: #a91e50;width: 0.10128%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.04320%;" class="progress-item"></span><span style="background-color: #ff3e00;width: 0.03854%;" class="progress-item"></span><span style="background-color: #15dcdc;width: 0.01397%;" class="progress-item"></span><span style="background-color: #a86454;width: 0.01322%;" class="progress-item"></span><span style="background-color: #6594b9;width: 0.00656%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.00325%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 35.17751%;" class="progress-item"></span><span style="background-color: #3178c6;width: 33.71217%;" class="progress-item"></span><span style="background-color: #e34c26;width: 13.44816%;" class="progress-item"></span><span style="background-color: #563d7c;width: 5.94749%;" class="progress-item"></span><span style="background-color: #c6538c;width: 4.72185%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.91479%;" class="progress-item"></span><span style="background-color: #dea584;width: 1.36340%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.90809%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.64743%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.32981%;" class="progress-item"></span><span style="background-color: #178600;width: 0.20217%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.17716%;" class="progress-item"></span><span style="background-color: #555555;width: 0.12613%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.10396%;" class="progress-item"></span><span style="background-color: #a91e50;width: 0.10122%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.04318%;" class="progress-item"></span><span style="background-color: #ff3e00;width: 0.03851%;" class="progress-item"></span><span style="background-color: #15dcdc;width: 0.01396%;" class="progress-item"></span><span style="background-color: #a86454;width: 0.01321%;" class="progress-item"></span><span style="background-color: #6594b9;width: 0.00656%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.00325%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -155,7 +155,7 @@ div.ellipsis {
                         JavaScript
                     </span>
                     <span class="percent">
-                        35.197%
+                        35.178%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -174,7 +174,7 @@ div.ellipsis {
                         TypeScript
                     </span>
                     <span class="percent">
-                        33.675%
+                        33.712%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -193,7 +193,7 @@ div.ellipsis {
                         HTML
                     </span>
                     <span class="percent">
-                        13.456%
+                        13.448%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
@@ -212,7 +212,7 @@ div.ellipsis {
                         CSS
                     </span>
                     <span class="percent">
-                        5.951%
+                        5.947%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
@@ -231,7 +231,7 @@ div.ellipsis {
                         SCSS
                     </span>
                     <span class="percent">
-                        4.724%
+                        4.722%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
@@ -250,7 +250,7 @@ div.ellipsis {
                         Python
                     </span>
                     <span class="percent">
-                        2.916%
+                        2.915%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
@@ -269,7 +269,7 @@ div.ellipsis {
                         Rust
                     </span>
                     <span class="percent">
-                        1.364%
+                        1.363%
                     </span>
             </li>
             <li style="animation-delay: 1050ms;">
@@ -288,7 +288,7 @@ div.ellipsis {
                         PHP
                     </span>
                     <span class="percent">
-                        0.909%
+                        0.908%
                     </span>
             </li>
             <li style="animation-delay: 1200ms;">
@@ -307,7 +307,7 @@ div.ellipsis {
                         Vue
                     </span>
                     <span class="percent">
-                        0.648%
+                        0.647%
                     </span>
             </li>
             <li style="animation-delay: 1350ms;">
