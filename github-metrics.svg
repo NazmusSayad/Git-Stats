@@ -2196,7 +2196,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.08m out of 210m repositories</span>
+                                    <span class="gh">ranked 1.08m out of 214m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">24</div>
                                     </div>
@@ -2274,7 +2274,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 24 Jul 2024, 20:24:04
+                            On 28 Jul 2024, 11:26:32
                         </div>
                     </section>
                 </div>
@@ -2284,86 +2284,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            M .gitignore
- M .npmignore
- D README.md
- D declarations.d.ts
- D index.html
- D netlify.toml
- D nodemon.json
- M package-lock.json
- M package.json
- D postcss.config.cjs
- D public/icon.ico
- D public/icon.png
- D public/robots.txt
- D src/App.tsx
- D src/api/react.ts
- D src/assets/icons/back.svg
- D src/assets/icons/cross.svg
- D src/assets/icons/download.svg
- D src/assets/icons/trash.svg
- D src/assets/icons/upload.svg
- D src/components/Content.tsx
- D src/components/ContentDir.module.scss
- D src/components/ContentDir.tsx
- D src/components/ContentFile.module.scss
- D src/components/ContentFile.tsx
- D src/components/NavBar.module.scss
- D src/components/NavBar.tsx
- D src/components/Upload.module.scss
- D src/components/Upload.tsx
- D src/hooks/usePathJoin.ts
- D src/index.tsx
- D src/layouts/Wrapper.tsx
- D src/main.ts
- D src/server/args.ts
- D src/server/controller/index.ts
- D src/server/express.ts
- D src/server/index.ts
- D src/store/index.ts
- D src/store/slice/Auth.ts
- D src/styles/_app.scss
- D src/styles/_colors.scss
- D src/styles/_fonts.scss
- D src/styles/_keyframes.scss
- D src/styles/_typography.scss
- D src/styles/abstracts/_colors.scss
- D src/styles/abstracts/_functions.scss
- D src/styles/abstracts/_mixins.scss
- D src/styles/abstracts/_placeholders.scss
- D src/styles/abstracts/_variables.scss
- D src/styles/abstracts/index.scss
- D src/styles/components/_button.scss
- D src/styles/components/index.scss
- D src/styles/core/_breakpoints.scss
- D src/styles/core/_colors.scss
- D src/styles/core/index.scss
- D src/styles/index.scss
- D src/styles/utils/_utils.scss
- D src/styles/utils/index.scss
- D src/types/data.ts
- D src/utils/index.ts
- M tsconfig.json
- D tsconfig.node.json
- D tsconfig.server.json
- D vercel.json
- D vite.config.mts
-?? .github/
-?? .vscode/
-?? src/arg/
-?? src/get/
-?? src/index.ts
-?? src/send/
-?? src/utils/jwt.ts
-?? src/utils/progress-bar.ts
+                            file dir almost done
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">cbc2c59c</span>
-                            <span class="code">.vscode/settings.json</span>
+                            <span class="code">eb44e498</span>
+                            <span class="code">web/features/Home/ActiveFileModal.tsx</span>
                             <span class="code">
                                 <span class="snippet additions">++5</span>
                                 <span class="snippet deletions">--0</span>
@@ -2374,14 +2302,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,5 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{<br /></span><span class="token prefix inserted">+</span><span class="token line"> "cSpell.words": [<br /></span><span class="token prefix inserted">+</span><span class="token line">   "noarg"<br /></span><span class="token prefix inserted">+</span><span class="token line"> ]<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,5 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">const ActiveFileModal = (props) =&gt; {<br /></span><span class="token prefix inserted">+</span><span class="token line"> return &lt;div&gt;ActiveFileModal&lt;/div&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">export default ActiveFileModal<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2024, 04:36:46 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2024, 05:37:14 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
