@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2500" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2607" class="">
     <defs>
         <style/>
     </defs>
@@ -11,22 +11,54 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    4 Languages
+                    22 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 123kb of code in 7 edited files across 3 commits</small>
+                <small>estimation from 45.5mb of code in 24183 edited files across 7197 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.9566168428728" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.9566168428728" y="0" width="7.0433831571272325" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.74457927479204" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="279.74457927479204" y="0" width="80.26953986522557" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="360.0141191400176" y="0" width="50.16812651324647" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="410.1822456532641" y="0" width="14.402466490634275" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="424.5847121438984" y="0" width="11.54243740754255" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="436.1271495514409" y="0" width="8.843021406090193" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.9701709575311" y="0" width="7.90166751447414" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.87183847200527" y="0" width="7.128161527994723" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TypeScript
+                            </div>
+                            <small>
+                                <div>45.7k lines</div>
+                                <div>1.35 MB</div>
+                                <div>60.81%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TSX
+                            </div>
+                            <small>
+                                <div>14.4k lines</div>
+                                <div>388 kB</div>
+                                <div>17.45%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -35,9 +67,61 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>100 lines</div>
-                                <div>2.70 kB</div>
-                                <div>98.47%</div>
+                                <div>10.2k lines</div>
+                                <div>242 kB</div>
+                                <div>10.91%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                SCSS
+                            </div>
+                            <small>
+                                <div>4.42k lines</div>
+                                <div>69.6 kB</div>
+                                <div>3.13%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                PowerShell
+                            </div>
+                            <small>
+                                <div>1.05k lines</div>
+                                <div>55.8 kB</div>
+                                <div>2.51%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>1.44k lines</div>
+                                <div>42.7 kB</div>
+                                <div>1.92%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                HTML
+                            </div>
+                            <small>
+                                <div>1.83k lines</div>
+                                <div>38.2 kB</div>
+                                <div>1.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,9 +132,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>1 line</div>
-                                <div>42 bytes</div>
-                                <div>1.53%</div>
+                                <div>1.63k lines</div>
+                                <div>34.4 kB</div>
+                                <div>1.55%</div>
                             </small>
                         </div>
                     </section>
@@ -194,7 +278,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 201 commits)</small>
+                    <small class="h-details">(computed from last 202 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -323,8 +407,8 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,97.963L29.565,87.407L49.13,90.926L68.696,10L88.261,87.407L107.826,83.889L127.391,69.815L146.957,38.148L166.522,83.889L186.087,94.444L205.652,87.407L225.217,76.852L244.783,52.222L264.348,45.185L283.913,52.222L303.478,94.444L323.043,105L342.609,73.333L362.174,83.889L381.739,48.704L401.304,76.852L420.87,76.852L440.435,101.481L460,94.444" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,94.444L440.435,101.481L420.87,76.852L401.304,76.852L381.739,48.704L362.174,83.889L342.609,73.333L323.043,105L303.478,94.444L283.913,52.222L264.348,45.185L244.783,52.222L225.217,76.852L205.652,87.407L186.087,94.444L166.522,83.889L146.957,38.148L127.391,69.815L107.826,83.889L88.261,87.407L68.696,10L49.13,90.926L29.565,87.407L10,97.963Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,97.963L29.565,87.407L49.13,90.926L68.696,10L88.261,87.407L107.826,83.889L127.391,69.815L146.957,38.148L166.522,83.889L186.087,94.444L205.652,87.407L225.217,76.852L244.783,52.222L264.348,45.185L283.913,52.222L303.478,94.444L323.043,105L342.609,73.333L362.174,83.889L381.739,45.185L401.304,76.852L420.87,76.852L440.435,101.481L460,94.444" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,94.444L440.435,101.481L420.87,76.852L401.304,76.852L381.739,45.185L362.174,83.889L342.609,73.333L323.043,105L303.478,94.444L283.913,52.222L264.348,45.185L244.783,52.222L225.217,76.852L205.652,87.407L186.087,94.444L166.522,83.889L146.957,38.148L127.391,69.815L107.826,83.889L88.261,87.407L68.696,10L49.13,90.926L29.565,87.407L10,97.963Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="97.96296296296298" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="87.4074074074074" r="2" fill="#106cbc"/>
@@ -345,7 +429,7 @@
                                 <circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="342.60869565217394" cy="73.33333333333334" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="362.17391304347825" cy="83.8888888888889" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="381.7391304347826" cy="48.7037037037037" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="381.7391304347826" cy="45.18518518518518" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="401.30434782608694" cy="76.85185185185185" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="420.8695652173913" cy="76.85185185185185" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="440.4347826086956" cy="101.48148148148148" r="2" fill="#106cbc"/>
@@ -371,7 +455,7 @@
                                 <text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="342.60869565217394" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">9</text>
                                 <text transform="translate(10,6)" x="362.17391304347825" y="83.8888888888889" fill="rgba(127, 127, 127, .8)">6</text>
-                                <text transform="translate(10,6)" x="381.7391304347826" y="48.7037037037037" fill="rgba(127, 127, 127, .8)">16</text>
+                                <text transform="translate(10,6)" x="381.7391304347826" y="45.18518518518518" fill="rgba(127, 127, 127, .8)">17</text>
                                 <text transform="translate(10,6)" x="401.30434782608694" y="76.85185185185185" fill="rgba(127, 127, 127, .8)">8</text>
                                 <text transform="translate(10,6)" x="420.8695652173913" y="76.85185185185185" fill="rgba(127, 127, 127, .8)">8</text>
                                 <text transform="translate(10,6)" x="440.4347826086956" y="101.48148148148148" fill="rgba(127, 127, 127, .8)">1</text>
@@ -430,12 +514,12 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,26.889L41,45.889L72,18.444L103,10L134,79.667L165,73.333L196,56.444" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,56.444L165,73.333L134,79.667L103,10L72,18.444L41,45.889L10,26.889Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,26.889L41,45.889L72,16.333L103,10L134,79.667L165,73.333L196,56.444" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,56.444L165,73.333L134,79.667L103,10L72,16.333L41,45.889L10,26.889Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="26.888888888888893" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="45.888888888888886" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="72" cy="18.444444444444446" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="72" cy="16.333333333333332" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="79.66666666666667" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="73.33333333333334" r="2" fill="#106cbc"/>
@@ -444,7 +528,7 @@
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <text transform="translate(10,6)" x="10" y="26.888888888888893" fill="rgba(127, 127, 127, .8)">37</text>
                                     <text transform="translate(10,6)" x="41" y="45.888888888888886" fill="rgba(127, 127, 127, .8)">28</text>
-                                    <text transform="translate(10,6)" x="72" y="18.444444444444446" fill="rgba(127, 127, 127, .8)">41</text>
+                                    <text transform="translate(10,6)" x="72" y="16.333333333333332" fill="rgba(127, 127, 127, .8)">42</text>
                                     <text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">45</text>
                                     <text transform="translate(10,6)" x="134" y="79.66666666666667" fill="rgba(127, 127, 127, .8)">12</text>
                                     <text transform="translate(10,6)" x="165" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">15</text>
@@ -1558,7 +1642,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        93k
+                                        93.1k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1767,6 +1851,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#fbc1c43</div>
+                                        <div class="message">idk what i did</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">NazmusSayad/nazmussayad.com</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#f4763cf</div>
                                         <div class="message">animatinos updated and app theme updated</div>
                                     </div>
@@ -1809,26 +1913,6 @@
                                     <div class="commit">
                                         <div class="sha">#b428d1d</div>
                                         <div class="message">sound effect added when raining</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">NazmusSayad/nazmussayad.com</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a8c33d4</div>
-                                        <div class="message">code optimizes</div>
                                     </div>
                                 </div>
                             </section>
@@ -1911,6 +1995,41 @@
                                     </div>
                                 </div>
                                 <div class="text">Followed by 1903 users</div>
+                            </div>
+                        </div>
+                        <div class="achievement s largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.125 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <path d="M17.135 7.988l-3.303.669a2 2 0 00-1.586 2.223l4.708 35.392a1.498 1.498 0 01-1.162 1.66 1.523 1.523 0 01-1.775-1.01L4.951 19.497a2 2 0 011.215-2.507l2.946-1.072" stroke="#731237" stroke-linejoin="round"/>
+                                            <path d="M36.8 48H23a2 2 0 01-2-2V7a2 2 0 012-2h26a2 2 0 012 2v32.766" stroke="#EB355E"/>
+                                            <path d="M29 20.955l-3.399 3.399a.85.85 0 000 1.202l3.399 3.4M43.014 20.955l3.399 3.399a.85.85 0 010 1.202l-3.4 3.4" stroke="#EB355E" stroke-linejoin="round"/>
+                                            <path stroke="#EB355E" d="M38.526 18l-5.053 14.016"/>
+                                            <path d="M44 36a8 8 0 110 16 8 8 0 010-16z" stroke="#EB355E" stroke-linejoin="round"/>
+                                            <path d="M43.068 40.749l3.846 2.396a1 1 0 01-.006 1.7l-3.846 2.36a1 1 0 01-1.523-.853v-4.755a1 1 0 011.529-.848z" stroke="#EB355E" stroke-linejoin="round"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix">Master</span>
+                                    polyglot
+                                    <div class="value-wrapper">
+                                        <div class="value">22</div>
+                                    </div>
+                                </div>
+                                <div class="text">Using 22 different programming languages</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2069,7 +2188,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.09m out of 216m repositories</span>
+                                    <span class="gh">ranked 1.09m out of 215m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">24</div>
                                     </div>
@@ -2122,40 +2241,6 @@
                                 <div class="text">Use GitHub Actions to automate profile updates</div>
                             </div>
                         </div>
-                        <div class="achievement x largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <path d="M17.135 7.988l-3.303.669a2 2 0 00-1.586 2.223l4.708 35.392a1.498 1.498 0 01-1.162 1.66 1.523 1.523 0 01-1.775-1.01L4.951 19.497a2 2 0 011.215-2.507l2.946-1.072" stroke="#B0B0B0" stroke-linejoin="round"/>
-                                            <path d="M36.8 48H23a2 2 0 01-2-2V7a2 2 0 012-2h26a2 2 0 012 2v32.766" stroke="#7A7A7A"/>
-                                            <path d="M29 20.955l-3.399 3.399a.85.85 0 000 1.202l3.399 3.4M43.014 20.955l3.399 3.399a.85.85 0 010 1.202l-3.4 3.4" stroke="#7A7A7A" stroke-linejoin="round"/>
-                                            <path stroke="#7A7A7A" d="M38.526 18l-5.053 14.016"/>
-                                            <path d="M44 36a8 8 0 110 16 8 8 0 010-16z" stroke="#7A7A7A" stroke-linejoin="round"/>
-                                            <path d="M43.068 40.749l3.846 2.396a1 1 0 01-.006 1.7l-3.846 2.36a1 1 0 01-1.523-.853v-4.755a1 1 0 011.529-.848z" stroke="#7A7A7A" stroke-linejoin="round"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Polyglot
-                                    <div class="value-wrapper">
-                                        <div class="value">0</div>
-                                    </div>
-                                </div>
-                                <div class="text">Using 0 different programming languages</div>
-                            </div>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2181,7 +2266,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 20 Aug 2024, 06:36:00
+                            On 25 Aug 2024, 20:18:25
                         </div>
                     </section>
                 </div>
@@ -2191,14 +2276,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            code optimizes and duplicate array bug fixed
+                            types updated
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">26faaae7</span>
-                            <span class="code">src/schema/TypeCore.ts</span>
+                            <span class="code">250c76af</span>
+                            <span class="code">package.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -2209,14 +2294,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import { MergeObject, Prettify } from '../types/util.t'<br /></span><span class="token prefix unchanged">·</span><span class="token line">import { ResultErr, ResultOk } from './result'<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import verifyOptionName from '../helpers/verify-flag-name'<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import verifyOptionName from '../helpers/validate-flag-name'<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import { ParsedResult, ExtractTypeOutput, InferAndUpdateConfig } from './type.t'<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">export type TypeCoreConfig = Partial&lt;{</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">{<br /></span><span class="token prefix unchanged">·</span><span class="token line">"name": "noarg",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"version": "3.0.20",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"version": "3.0.21",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"scripts": {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "build": "npmize build",<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "dev": "npmize dev --module cjs",</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2024, 20:38:59 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2024, 21:37:39 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
