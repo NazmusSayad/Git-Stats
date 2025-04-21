@@ -349,8 +349,8 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,93.824L29.565,93.824L49.13,54.706L68.696,93.824L88.261,88.235L107.826,65.882L127.391,21.176L146.957,10L166.522,49.118L186.087,88.235L205.652,105L225.217,65.882L244.783,88.235L264.348,93.824L283.913,99.412L303.478,77.059L323.043,71.471L342.609,99.412L362.174,71.471L381.739,54.706L401.304,49.118L420.87,65.882L440.435,37.941L460,60.294" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,60.294L440.435,37.941L420.87,65.882L401.304,49.118L381.739,54.706L362.174,71.471L342.609,99.412L323.043,71.471L303.478,77.059L283.913,99.412L264.348,93.824L244.783,88.235L225.217,65.882L205.652,105L186.087,88.235L166.522,49.118L146.957,10L127.391,21.176L107.826,65.882L88.261,88.235L68.696,93.824L49.13,54.706L29.565,93.824L10,93.824Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,93.824L29.565,93.824L49.13,54.706L68.696,93.824L88.261,88.235L107.826,65.882L127.391,21.176L146.957,10L166.522,49.118L186.087,88.235L205.652,105L225.217,65.882L244.783,88.235L264.348,88.235L283.913,99.412L303.478,82.647L323.043,71.471L342.609,99.412L362.174,71.471L381.739,54.706L401.304,49.118L420.87,65.882L440.435,37.941L460,60.294" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,60.294L440.435,37.941L420.87,65.882L401.304,49.118L381.739,54.706L362.174,71.471L342.609,99.412L323.043,71.471L303.478,82.647L283.913,99.412L264.348,88.235L244.783,88.235L225.217,65.882L205.652,105L186.087,88.235L166.522,49.118L146.957,10L127.391,21.176L107.826,65.882L88.261,88.235L68.696,93.824L49.13,54.706L29.565,93.824L10,93.824Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="93.8235294117647" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="93.8235294117647" r="2" fill="#106cbc"/>
@@ -365,9 +365,9 @@
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="225.2173913043478" cy="65.88235294117646" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="244.7826086956522" cy="88.23529411764706" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="93.8235294117647" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="88.23529411764706" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="283.9130434782609" cy="99.41176470588236" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="303.4782608695652" cy="77.05882352941175" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="303.4782608695652" cy="82.6470588235294" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="323.04347826086956" cy="71.47058823529412" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="342.60869565217394" cy="99.41176470588236" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="362.17391304347825" cy="71.47058823529412" r="2" fill="#106cbc"/>
@@ -391,9 +391,9 @@
                                 <text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="225.2173913043478" y="65.88235294117646" fill="rgba(127, 127, 127, .8)">7</text>
                                 <text transform="translate(10,6)" x="244.7826086956522" y="88.23529411764706" fill="rgba(127, 127, 127, .8)">3</text>
-                                <text transform="translate(10,6)" x="264.3478260869565" y="93.8235294117647" fill="rgba(127, 127, 127, .8)">2</text>
+                                <text transform="translate(10,6)" x="264.3478260869565" y="88.23529411764706" fill="rgba(127, 127, 127, .8)">3</text>
                                 <text transform="translate(10,6)" x="283.9130434782609" y="99.41176470588236" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="303.4782608695652" y="77.05882352941175" fill="rgba(127, 127, 127, .8)">5</text>
+                                <text transform="translate(10,6)" x="303.4782608695652" y="82.6470588235294" fill="rgba(127, 127, 127, .8)">4</text>
                                 <text transform="translate(10,6)" x="323.04347826086956" y="71.47058823529412" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="342.60869565217394" y="99.41176470588236" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="362.17391304347825" y="71.47058823529412" fill="rgba(127, 127, 127, .8)">6</text>
@@ -456,25 +456,25 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,51.977L41,65.233L72,71.86L103,10L134,76.279L165,82.907L196,51.977" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,51.977L165,82.907L134,76.279L103,10L72,71.86L41,65.233L10,51.977Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,51.977L41,63.023L72,71.86L103,10L134,76.279L165,82.907L196,54.186" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,54.186L165,82.907L134,76.279L103,10L72,71.86L41,63.023L10,51.977Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="51.97674418604652" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="41" cy="65.23255813953487" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="41" cy="63.02325581395348" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="71.86046511627907" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="76.27906976744185" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="82.90697674418605" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="196" cy="51.97674418604652" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="196" cy="54.186046511627914" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <text transform="translate(10,6)" x="10" y="51.97674418604652" fill="rgba(127, 127, 127, .8)">24</text>
-                                    <text transform="translate(10,6)" x="41" y="65.23255813953487" fill="rgba(127, 127, 127, .8)">18</text>
+                                    <text transform="translate(10,6)" x="41" y="63.02325581395348" fill="rgba(127, 127, 127, .8)">19</text>
                                     <text transform="translate(10,6)" x="72" y="71.86046511627907" fill="rgba(127, 127, 127, .8)">15</text>
                                     <text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">43</text>
                                     <text transform="translate(10,6)" x="134" y="76.27906976744185" fill="rgba(127, 127, 127, .8)">13</text>
                                     <text transform="translate(10,6)" x="165" y="82.90697674418605" fill="rgba(127, 127, 127, .8)">10</text>
-                                    <text transform="translate(10,6)" x="196" y="51.97674418604652" fill="rgba(127, 127, 127, .8)">24</text>
+                                    <text transform="translate(10,6)" x="196" y="54.186046511627914" fill="rgba(127, 127, 127, .8)">23</text>
                                 </g>
                             </svg>
                         </div>
@@ -1789,6 +1789,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sayad-new</span></div>
                                     <div class="commit">
+                                        <div class="sha">#9bdac32</div>
+                                        <div class="message">feat: enhance FavoriteIconButton with loading state handling; refactor product image handling in ModalCardPreviewV2; update MainContent for improved layout; implement quantity selection with buttons in SelectQuantity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">WebMakersBD/card-ecom-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">sayad-new</span></div>
+                                    <div class="commit">
                                         <div class="sha">#6368916</div>
                                         <div class="message">feat: enhance category and collection components with loading state and no data handling; refactor artist component export</div>
                                     </div>
@@ -1831,26 +1851,6 @@
                                     <div class="commit">
                                         <div class="sha">#6ff4f4f</div>
                                         <div class="message">fix: adjust default artistNameLength and productTitleLength in ProductCard component; update label text in MessageEditor; remove unused cover import in Artists</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">WebMakersBD/card-ecom-frontend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sayad-new</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3bb480f</div>
-                                        <div class="message">feat: update FeaturedCategories and Account components for improved layout and navigation</div>
                                     </div>
                                 </div>
                             </section>
@@ -2010,7 +2010,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2025, 12:50:21 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2025, 15:42:02 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
