@@ -220,12 +220,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 160 commits)</small>
+                    <small class="h-details">(computed from last 161 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 42.6 characters per line of code written</li>
+                        <li>Has approximately 42.7 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -353,17 +353,17 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,37.941L29.565,77.059L49.13,49.118L68.696,65.882L88.261,37.941L107.826,105L127.391,93.824L146.957,105L166.522,105L186.087,54.706L205.652,54.706L225.217,88.235L244.783,37.941L264.348,82.647L283.913,65.882L303.478,77.059L323.043,93.824L342.609,49.118L362.174,71.471L381.739,26.765L401.304,88.235L420.87,93.824L440.435,54.706L460,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,10L440.435,54.706L420.87,93.824L401.304,88.235L381.739,26.765L362.174,71.471L342.609,49.118L323.043,93.824L303.478,77.059L283.913,65.882L264.348,82.647L244.783,37.941L225.217,88.235L205.652,54.706L186.087,54.706L166.522,105L146.957,105L127.391,93.824L107.826,105L88.261,37.941L68.696,65.882L49.13,49.118L29.565,77.059L10,37.941Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,37.941L29.565,77.059L49.13,49.118L68.696,82.647L88.261,60.294L107.826,105L127.391,65.882L146.957,88.235L166.522,105L186.087,54.706L205.652,54.706L225.217,88.235L244.783,37.941L264.348,82.647L283.913,65.882L303.478,77.059L323.043,93.824L342.609,49.118L362.174,71.471L381.739,26.765L401.304,88.235L420.87,93.824L440.435,54.706L460,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,10L440.435,54.706L420.87,93.824L401.304,88.235L381.739,26.765L362.174,71.471L342.609,49.118L323.043,93.824L303.478,77.059L283.913,65.882L264.348,82.647L244.783,37.941L225.217,88.235L205.652,54.706L186.087,54.706L166.522,105L146.957,88.235L127.391,65.882L107.826,105L88.261,60.294L68.696,82.647L49.13,49.118L29.565,77.059L10,37.941Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="37.94117647058823" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="77.05882352941175" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="49.130434782608695" cy="49.11764705882353" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="68.69565217391305" cy="65.88235294117646" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="37.94117647058823" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="68.69565217391305" cy="82.6470588235294" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="60.29411764705882" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="107.82608695652173" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="93.8235294117647" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="146.95652173913044" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="65.88235294117646" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="146.95652173913044" cy="88.23529411764706" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="186.08695652173913" cy="54.70588235294118" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="54.70588235294118" r="2" fill="#106cbc"/>
@@ -385,11 +385,11 @@
                                 <text transform="translate(10,6)" x="10" y="37.94117647058823" fill="rgba(127, 127, 127, .8)">12</text>
                                 <text transform="translate(10,6)" x="29.565217391304348" y="77.05882352941175" fill="rgba(127, 127, 127, .8)">5</text>
                                 <text transform="translate(10,6)" x="49.130434782608695" y="49.11764705882353" fill="rgba(127, 127, 127, .8)">10</text>
-                                <text transform="translate(10,6)" x="68.69565217391305" y="65.88235294117646" fill="rgba(127, 127, 127, .8)">7</text>
-                                <text transform="translate(10,6)" x="88.26086956521739" y="37.94117647058823" fill="rgba(127, 127, 127, .8)">12</text>
+                                <text transform="translate(10,6)" x="68.69565217391305" y="82.6470588235294" fill="rgba(127, 127, 127, .8)">4</text>
+                                <text transform="translate(10,6)" x="88.26086956521739" y="60.29411764705882" fill="rgba(127, 127, 127, .8)">8</text>
                                 <text transform="translate(10,6)" x="107.82608695652173" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="127.3913043478261" y="93.8235294117647" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="146.95652173913044" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="127.3913043478261" y="65.88235294117646" fill="rgba(127, 127, 127, .8)">7</text>
+                                <text transform="translate(10,6)" x="146.95652173913044" y="88.23529411764706" fill="rgba(127, 127, 127, .8)">3</text>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="186.08695652173913" y="54.70588235294118" fill="rgba(127, 127, 127, .8)">9</text>
                                 <text transform="translate(10,6)" x="205.65217391304347" y="54.70588235294118" fill="rgba(127, 127, 127, .8)">9</text>
@@ -460,22 +460,22 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,58.396L41,60.189L72,10L103,40.472L134,96.038L165,83.491L196,99.623" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,99.623L165,83.491L134,96.038L103,40.472L72,10L41,60.189L10,58.396Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,70.943L41,60.189L72,10L103,26.132L134,96.038L165,83.491L196,99.623" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,99.623L165,83.491L134,96.038L103,26.132L72,10L41,60.189L10,70.943Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="58.39622641509433" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="70.9433962264151" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="60.18867924528302" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="10" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="103" cy="40.47169811320755" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="103" cy="26.13207547169811" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="96.0377358490566" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="83.49056603773586" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="99.62264150943396" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="58.39622641509433" fill="rgba(127, 127, 127, .8)">26</text>
+                                    <text transform="translate(10,6)" x="10" y="70.9433962264151" fill="rgba(127, 127, 127, .8)">19</text>
                                     <text transform="translate(10,6)" x="41" y="60.18867924528302" fill="rgba(127, 127, 127, .8)">25</text>
                                     <text transform="translate(10,6)" x="72" y="10" fill="rgba(127, 127, 127, .8)">53</text>
-                                    <text transform="translate(10,6)" x="103" y="40.47169811320755" fill="rgba(127, 127, 127, .8)">36</text>
+                                    <text transform="translate(10,6)" x="103" y="26.13207547169811" fill="rgba(127, 127, 127, .8)">44</text>
                                     <text transform="translate(10,6)" x="134" y="96.0377358490566" fill="rgba(127, 127, 127, .8)">5</text>
                                     <text transform="translate(10,6)" x="165" y="83.49056603773586" fill="rgba(127, 127, 127, .8)">12</text>
                                     <text transform="translate(10,6)" x="196" y="99.62264150943396" fill="rgba(127, 127, 127, .8)">3</text>
@@ -1566,7 +1566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hijam-git/porda-ai-extension</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The world’s first advanced AI solution for Real-time haram and non-mahram blurring in images and videos, empowering you to maintain your faith.</div>
@@ -1752,7 +1752,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                66.8k
+                                                66.9k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -1791,8 +1791,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">NVIA-158</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ca29b04</div>
-                                        <div class="message">feat(design-photo): implement multi-canvas support and update context management</div>
+                                        <div class="sha">#79254cb</div>
+                                        <div class="message">refactor(fabric-canvas): update onUpdate and onSelect handlers to use helperRef for improved state management</div>
                                     </div>
                                 </div>
                             </section>
@@ -1811,8 +1811,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">NVIA-158</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5d24bd</div>
-                                        <div class="message">refactor(design-photo): add canvasHeight and canvasWidth to DesignPage type</div>
+                                        <div class="sha">#56375d3</div>
+                                        <div class="message">refactor(design-photo): simplify initial state setup for pages in DesignContextProvider</div>
                                     </div>
                                 </div>
                             </section>
@@ -1831,8 +1831,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">NVIA-158</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7107064</div>
-                                        <div class="message">refactor(design-photo): define FabricCanvasProps interface for improved type safety</div>
+                                        <div class="sha">#9e397b8</div>
+                                        <div class="message">refactor(fabric-canvas): update initial prop type and streamline canvas initialization logic</div>
                                     </div>
                                 </div>
                             </section>
@@ -1851,8 +1851,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">NVIA-158</span></div>
                                     <div class="commit">
-                                        <div class="sha">#18d99a5</div>
-                                        <div class="message">feat(design-photo): add state management for multiple design pages in context</div>
+                                        <div class="sha">#595b34f</div>
+                                        <div class="message">feat(design-photo): implement initial state for new canvas pages and refactor undo/redo logic</div>
                                     </div>
                                 </div>
                             </section>
@@ -2012,7 +2012,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2025, 12:51:48 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 May 2025, 15:44:21 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
