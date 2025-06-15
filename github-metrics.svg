@@ -220,12 +220,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 197 commits)</small>
+                    <small class="h-details">(computed from last 199 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 34.8 characters per line of code written</li>
+                        <li>Has approximately 34.9 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -349,19 +349,19 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,53.846L29.565,97.692L49.13,97.692L68.696,105L88.261,68.462L107.826,86.731L127.391,105L146.957,101.346L166.522,105L186.087,94.038L205.652,75.769L225.217,97.692L244.783,90.385L264.348,90.385L283.913,83.077L303.478,53.846L323.043,10L342.609,42.885L362.174,31.923L381.739,75.769L401.304,79.423L420.87,53.846L440.435,42.885L460,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,57.5L440.435,42.885L420.87,53.846L401.304,79.423L381.739,75.769L362.174,31.923L342.609,42.885L323.043,10L303.478,53.846L283.913,83.077L264.348,90.385L244.783,90.385L225.217,97.692L205.652,75.769L186.087,94.038L166.522,105L146.957,101.346L127.391,105L107.826,86.731L88.261,68.462L68.696,105L49.13,97.692L29.565,97.692L10,53.846Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,53.846L29.565,97.692L49.13,97.692L68.696,105L88.261,68.462L107.826,72.115L127.391,105L146.957,101.346L166.522,105L186.087,101.346L205.652,75.769L225.217,97.692L244.783,90.385L264.348,90.385L283.913,83.077L303.478,53.846L323.043,10L342.609,42.885L362.174,31.923L381.739,75.769L401.304,79.423L420.87,53.846L440.435,42.885L460,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,57.5L440.435,42.885L420.87,53.846L401.304,79.423L381.739,75.769L362.174,31.923L342.609,42.885L323.043,10L303.478,53.846L283.913,83.077L264.348,90.385L244.783,90.385L225.217,97.692L205.652,75.769L186.087,101.346L166.522,105L146.957,101.346L127.391,105L107.826,72.115L88.261,68.462L68.696,105L49.13,97.692L29.565,97.692L10,53.846Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="53.846153846153854" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="49.130434782608695" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="68.69565217391305" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="88.26086956521739" cy="68.46153846153845" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="107.82608695652173" cy="86.73076923076923" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="107.82608695652173" cy="72.11538461538463" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="127.3913043478261" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="146.95652173913044" cy="101.34615384615385" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="94.03846153846155" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="101.34615384615385" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="75.76923076923077" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="225.2173913043478" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="244.7826086956522" cy="90.38461538461537" r="2" fill="#106cbc"/>
@@ -383,11 +383,11 @@
                                 <text transform="translate(10,6)" x="49.130434782608695" y="97.69230769230771" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="88.26086956521739" y="68.46153846153845" fill="rgba(127, 127, 127, .8)">10</text>
-                                <text transform="translate(10,6)" x="107.82608695652173" y="86.73076923076923" fill="rgba(127, 127, 127, .8)">5</text>
+                                <text transform="translate(10,6)" x="107.82608695652173" y="72.11538461538463" fill="rgba(127, 127, 127, .8)">9</text>
                                 <text transform="translate(10,6)" x="127.3913043478261" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="146.95652173913044" y="101.34615384615385" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="186.08695652173913" y="94.03846153846155" fill="rgba(127, 127, 127, .8)">3</text>
+                                <text transform="translate(10,6)" x="186.08695652173913" y="101.34615384615385" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="205.65217391304347" y="75.76923076923077" fill="rgba(127, 127, 127, .8)">8</text>
                                 <text transform="translate(10,6)" x="225.2173913043478" y="97.69230769230771" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="244.7826086956522" y="90.38461538461537" fill="rgba(127, 127, 127, .8)">4</text>
@@ -456,22 +456,22 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,23.571L103,42.232L134,10L165,21.875L196,93.125" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,93.125L165,21.875L134,10L103,42.232L72,23.571L41,105L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,98.214L41,105L72,23.571L103,45.625L134,10L165,21.875L196,93.125" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,93.125L165,21.875L134,10L103,45.625L72,23.571L41,105L10,98.214Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="98.21428571428571" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="105" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="23.571428571428577" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="103" cy="42.232142857142854" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="103" cy="45.625" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="21.875" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="93.125" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                    <text transform="translate(10,6)" x="10" y="98.21428571428571" fill="rgba(127, 127, 127, .8)">4</text>
                                     <text transform="translate(10,6)" x="41" y="105" fill="rgba(127, 127, 127, .8)"/>
                                     <text transform="translate(10,6)" x="72" y="23.571428571428577" fill="rgba(127, 127, 127, .8)">48</text>
-                                    <text transform="translate(10,6)" x="103" y="42.232142857142854" fill="rgba(127, 127, 127, .8)">37</text>
+                                    <text transform="translate(10,6)" x="103" y="45.625" fill="rgba(127, 127, 127, .8)">35</text>
                                     <text transform="translate(10,6)" x="134" y="10" fill="rgba(127, 127, 127, .8)">56</text>
                                     <text transform="translate(10,6)" x="165" y="21.875" fill="rgba(127, 127, 127, .8)">49</text>
                                     <text transform="translate(10,6)" x="196" y="93.125" fill="rgba(127, 127, 127, .8)">7</text>
@@ -525,7 +525,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 4 days
+                            Current streak 5 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -549,7 +549,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~14.87
+                            Average per day at ~14.82
                         </div>
                     </section>
                 </div>
@@ -1525,6 +1525,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.8196721311475414 0,5.8196721311475414 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.8196721311475414 1.7,6.8196721311475414 z"/>
                             </g>
+                            <g transform="translate(-10.2, 11.311475409836065)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6885245901639343 0,1.6885245901639343 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6885245901639343 1.7,2.6885245901639343 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1765,14 +1770,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">al-imam/mailer-editor</span>
+                                        <span class="repo">NazmusSayad/nazmussayad.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#22af6c8</div>
-                                        <div class="message">style(generate-image): update font weights in style import and increase timeout duration</div>
+                                        <div class="sha">#20a6609</div>
+                                        <div class="message">style(Hero): adjust paragraph text size and update line break visibility</div>
                                     </div>
                                 </div>
                             </section>
@@ -1785,14 +1790,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">al-imam/mailer-editor</span>
+                                        <span class="repo">NazmusSayad/nazmussayad.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d06de43</div>
-                                        <div class="message">style(generate-image): update font import to include Fira Code and remove pixelRatio option</div>
+                                        <div class="sha">#23478b8</div>
+                                        <div class="message">fix(package): update @types/react and @types/react-dom to latest versions</div>
                                     </div>
                                 </div>
                             </section>
@@ -1805,14 +1810,36 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">al-imam/mailer-editor</span>
+                                        <span class="repo">NazmusSayad/nazmussayad.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4235983</div>
-                                        <div class="message">fix(generate-image): handle iframe document access errors and improve style injection</div>
+                                        <div class="sha">#b77dd71</div>
+                                        <div class="message">chore: update dependencies and devDependencies to latest versions
+
+- Updated @radix-ui/react-alert-dialog from ^1.1.10 to ^1.1.14
+- Updated @radix-ui/react-checkbox from ^1.2.2 to ^1.3.2
+- Updated @radix-ui/react-dropdown-menu from ^2.1.10 to ^2.1.15
+- Updated @radix-ui/react-popover from ^1.1.10 to ^1.1.14
+- Updated @radix-ui/react-radio-group from ^1.3.2 to ^1.3.7
+- Updated @radix-ui/react-switch from ^1.2.2 to ^1.2.5
+- Updated @radix-ui/react-tooltip from ^1.2.3 to ^1.2.7
+- Updated markdown-to-jsx from ^7.7.4 to ^7.7.6
+- Updated next from ^15.3.1 to ^15.3.3
+- Updated react from 19.0.0 to ^19.1.0
+- Updated react-dom from 19.0.0 to ^19.1.0
+- Updated @types/node from ^20.17.30 to ^20.19.0
+- Updated @types/react from 19.0.8 to ^19.1.8
+- Updated @types/react-dom from 19.0.3 to ^19.1.6
+- Updated eslint-config-next from ^15.3.1 to ^15.3.3
+- Updated eslint-config-prettier from ^10.1.2 to ^10.1.5
+- Updated eslint-plugin-prettier from ^5.2.6 to ^5.4.1
+- Updated postcss from ^8.5.3 to ^8.5.5
+- Updated sass from ^1.86.3 to ^1.89.2
+- Added prettier-plugin-tailwindcss from ^0.6.12
+- Updated overrides for react and types to ^19.1.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -1825,14 +1852,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">al-imam/mailer-editor</span>
+                                        <span class="repo">NazmusSayad/nazmussayad.com</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#113a1ba</div>
-                                        <div class="message">feat(page): implement image generation functionality with minimal render component</div>
+                                        <div class="sha">#b7061d9</div>
+                                        <div class="message">feat(NavBar): add hamburger components and improve dropdown behavior</div>
                                     </div>
                                 </div>
                             </section>
@@ -1992,7 +2019,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2025, 03:40:45 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2025, 08:35:28 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
