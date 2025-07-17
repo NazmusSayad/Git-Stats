@@ -62,7 +62,6 @@ jobs:
           plugin_notable_from: all
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          plugin_notable_types: commit
           plugin_starlists: yes
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
