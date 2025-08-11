@@ -58,7 +58,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_traffic: yes
-          plugin_wakatime: yes
+          plugin_wakatime: no
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 7
           plugin_wakatime_languages_other: yes
